@@ -1,4 +1,4 @@
-### 👋🏾 Hi there, It’s me Dave, also known as Daan. Here is some quick info about me.
+## 👋🏾 Hi there, It’s me Dave, also known as Daan. Here is some quick info about me.
 ## I like to program discord bots, and I'm planning on developing my own website, here is some more info about me!
 - 🔭 I’m currently working on my own public Discord bot
 - 🌱 I’m currently learning javascript and some HTML + CSS
