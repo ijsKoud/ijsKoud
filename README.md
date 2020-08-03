@@ -5,12 +5,15 @@
 - 📫 How to reach me: check my socials down below
 - ⚡ Fun fact: The quarantine was effective, without it I never had any time to learn javascript
 
+<br /> 
+
 ### Socials:
 [<img align="left" alt="Coming Soon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Dave | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img align="left" alt="Dave | Discord" width="22px" src="https://i.pinimg.com/564x/13/af/38/13af386d6c652038bdcd0aa2613e72a5.jpg" />][discord] 
 [<img align="left" alt="DaanGamesDG | Roblox" width="22px" src="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/gg7hnk7vv8e8wudbq7pr" />][roblox]
 
+<br /> 
 <br /> 
 
 ### Languages and Tools: 
