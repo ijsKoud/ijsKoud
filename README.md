@@ -10,6 +10,20 @@
 [<img align="left" alt="Dave | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img align="left" alt="Dave | Discord" width="22px" src="https://i.pinimg.com/564x/13/af/38/13af386d6c652038bdcd0aa2613e72a5.jpg" />][discord] 
 [<img align="left" alt="DaanGamesDG | Roblox" width="22px" src="https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/gg7hnk7vv8e8wudbq7pr" />][roblox]
+
+<br /> 
+
+### Languages and Tools: 
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode] 
+[<img alig="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]  
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node] 
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo] 
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github] 
+
+<br /> 
+<br /> 
 <!--
 **DaanGamesDG/DaanGamesDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,3 +42,9 @@ Here are some ideas to get you started:
 [youtube]: https://m.youtube.com/channel/UCn9awHv18qumi57E2Hv_jMw 
 [discord]: https://discord.gg/r2GbkqV 
 [roblox]: https://www.roblox.com/users/188965979/profile
+
+[vscode]: https://code.visualstudio.com
+[js]: https://discord.js.org/#/
+[node]: https://nodejs.org/en/
+[mongo]: https://www.mongodb.com
+[github]: https://github.com
