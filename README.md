@@ -27,6 +27,11 @@
 
 ### 📺 Latest Videos
 <!-- YOUTUBE:START -->
+- [Naco’s Liberty Statue | Itty Bitty Railway Timelapse #6](https://www.youtube.com/watch?v=8bgQ1ySyMAM)
+- [Rocket Inc Part 2 | Itty Bitty Railway Timelapse #5](https://www.youtube.com/watch?v=TH1T3OBdZeE)
+- [Rocket Inc. Part 1 | Itty Bitty Railway Timelapse #4](https://www.youtube.com/watch?v=nIhzDWBQOD4)
+- [Gas Station | Itty Bitty Railway Timelapse #3](https://www.youtube.com/watch?v=XZq0QGCQwBU)
+- [Willowfield to berrily | Class 730-1 | SCR Timelapse](https://www.youtube.com/watch?v=TFhbk3CpUaQ)
 <!-- YOUTUBE:END -->
 
 <!--
