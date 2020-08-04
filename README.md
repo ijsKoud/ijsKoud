@@ -7,7 +7,7 @@
 
 <br /> 
 
-### Socials:
+### My Socials:
 [<img align="left" alt="Coming Soon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][youtube]
 [<img align="left" alt="Dave | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img align="left" alt="Dave | Discord" width="22px" src="https://i.pinimg.com/564x/13/af/38/13af386d6c652038bdcd0aa2613e72a5.jpg" />][discord] 
@@ -16,7 +16,7 @@
 <br /> 
 <br /> 
 
-### Languages and Tools: 
+### Languages and Tools I use: 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode] 
 [<img alig="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]  
