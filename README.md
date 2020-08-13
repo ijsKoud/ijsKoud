@@ -30,11 +30,11 @@
 
 ### 📺 Latest Videos
 <!-- YOUTUBE:START -->
+- [14 kill solo win - Fortnite](https://www.youtube.com/watch?v=5gdjU1ZUP6M)
 - [Project setup and ping command - Discordjs Bot Tutorial #1](https://www.youtube.com/watch?v=uAMg4ogIap8)
 - [Fornite 24 Kills Duo Win - With My Brother](https://www.youtube.com/watch?v=x9kYhFlz4sM)
 - [Naco’s Liberty Statue | Itty Bitty Railway Timelapse #6](https://www.youtube.com/watch?v=8bgQ1ySyMAM)
 - [Rocket Inc Part 2 | Itty Bitty Railway Timelapse #5](https://www.youtube.com/watch?v=TH1T3OBdZeE)
-- [Rocket Inc. Part 1 | Itty Bitty Railway Timelapse #4](https://www.youtube.com/watch?v=nIhzDWBQOD4)
 <!-- YOUTUBE:END -->
 
 <!--
