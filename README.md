@@ -30,11 +30,11 @@
 
 ### 📺 Latest Videos
 <!-- YOUTUBE:START -->
+- [Kick and Ban Command Tutorial - Discordjs Bot Tutorial #2](https://www.youtube.com/watch?v=ceNLrNNT5wU)
 - [Minecraft Livestream - With my friends - Dutch](https://www.youtube.com/watch?v=TxLlW99SZR8)
 - [14 kill solo win - Fortnite](https://www.youtube.com/watch?v=5gdjU1ZUP6M)
 - [Project setup and ping command - Discordjs Bot Tutorial #1](https://www.youtube.com/watch?v=uAMg4ogIap8)
 - [Fornite 24 Kills Duo Win - With My Brother](https://www.youtube.com/watch?v=x9kYhFlz4sM)
-- [Naco’s Liberty Statue | Itty Bitty Railway Timelapse #6](https://www.youtube.com/watch?v=8bgQ1ySyMAM)
 <!-- YOUTUBE:END -->
 
 <!--
