@@ -1,7 +1,7 @@
 ## 👋🏾 Hi there, It’s me Dave, also known as Daan.
 ### I like to program discord bots, and I'm planning on developing my own website, here is some more info about me!
 - 🔭 I’m currently working on my own public Discord bot
-- 🌱 I like TypeScript, JavaScript and Puh/HMTL
+- 🌱 I like TypeScript, JavaScript and Pug/HMTL
 - 📫 How to reach me: check my socials down below
 - ⚡ Fun fact: The quarantine was effective, without it I never had any time to learn javascript or learn how to code a bot.
 
