@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/DaanGamesDG)
 
 ### Hi there 👋, my name is Daan.
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://imgur.com/BZUFeIs.png)
 
 Hi, I am a 14 year old discord and Javascript, Typescript and Pug/HTML Enthusiast. I like to create discord bots and to help others to learn how to code. I live in the Netherlands, the typical country where we all complain about the weather no matter what. 
 
