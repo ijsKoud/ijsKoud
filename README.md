@@ -7,7 +7,7 @@
 
 <br /> 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=DaanGamesDG&theme=onedark&show_icons=true&count_private=true)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&theme=onedark&show_icons=true&count_private=true)]
 
 ### My Socials:
 [<img align="left" alt="Coming Soon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][youtube]
