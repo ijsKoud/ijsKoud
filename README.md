@@ -9,6 +9,8 @@ Hi, I am a 14 year old discord and Javascript, Typescript and Pug/HTML Enthusias
 
 Skills: JS / TS / HTML
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DaanGamesDG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Dave)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/r2GbkqV)  
+
 ---
 
 - 🔭 I’m currently working on An amazing music bot 
@@ -17,8 +19,6 @@ Skills: JS / TS / HTML
 - ⚡ Fun fact: The quarantine was effective, without it I never had any time to learn javascript or learn how to code a bot. 
 
 ---
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DaanGamesDG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Dave)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/r2GbkqV)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaanGamesDG&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daangamesdg&theme=great-gatsby&show_icons=true&count_private=true)
