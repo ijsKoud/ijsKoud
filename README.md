@@ -19,7 +19,7 @@ Skills: JS / TS / HTML
 - ⚡ Fun fact: The quarantine was effective, without it I never had any time to learn javascript or learn how to code a bot. 
 
 ---
-### <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> **Github Statistics**:
+### <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'> **Github Statistics**:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaanGamesDG&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daangamesdg&theme=great-gatsby&show_icons=true&count_private=true)
 
