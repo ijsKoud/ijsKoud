@@ -29,6 +29,9 @@
 
 ---
 
+## Free To Use Projects:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discord-music-bot&theme=tokyonight&hide_border=true)](https://github.com/DaanGamesDG/discord-music-bot)
+
 ### 📺 Latest Videos
 <!-- YOUTUBE:START -->
 - [Discord Music Bot Developing - Live!](https://www.youtube.com/watch?v=URRSuFbddUk)
