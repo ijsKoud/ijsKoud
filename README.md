@@ -2,6 +2,7 @@
 <h3 align="center">I am a 14 year old discord and Javascript, Typescript and Pug/HTML Enthusiast. I like to create discord bots and to help others to learn how to code. I live in the Netherlands, the typical country where we all complain about the weather no matter what.</h3>
 
 <p align="left"> <img src="https://gpvc.arturio.dev/DaanGamesDG" alt="daangamesdg" /> </p>
+
 [![paypal.me/daangamesdg](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/daangamesdg)
 
 - 🔭 I’m currently working on [An amazing music bot using ts and lavalink](https://github.com/Stereo-music-bot)
