@@ -1,28 +1,29 @@
-![Profile views](https://gpvc.arturio.dev/DaanGamesDG)
+<h1 align="center">Hi 👋, I'm Daan,</h1>
+<h3 align="center">I am a 14 year old discord and Javascript, Typescript and Pug/HTML Enthusiast. I like to create discord bots and to help others to learn how to code. I live in the Netherlands, the typical country where we all complain about the weather no matter what.</h3>
 
-### Hi there 👋, my name is Daan.
-![](https://imgur.com/BZUFeIs.png)
+<p align="left"> <img src="https://gpvc.arturio.dev/DaanGamesDG" alt="daangamesdg" /> </p>
 
-Hi, I am a 14 year old discord and Javascript, Typescript and Pug/HTML Enthusiast. I like to create discord bots and to help others to learn how to code. I live in the Netherlands, the typical country where we all complain about the weather no matter what. 
+- 🔭 I’m currently working on [An amazing music bot using ts and lavalink](https://github.com/Stereo-music-bot)
 
-- 🔭 I’m currently working on An amazing music bot 
-- 📫 How to reach me: Discord, my favourite platform! 
-- 😄 Pronouns: Daan, DaanGamesDG, Dave 
-- ⚡ Fun fact: The quarantine was effective, without it I never had any time to learn javascript or learn how to code a bot. 
+- 👨‍💻 All of my projects are available at (aren't a lot) [https://github.com/DaanGamesDG?tab=repositories](https://github.com/DaanGamesDG?tab=repositories)
 
----
+- 💬 Ask me about **anything, I will be glad to help you!**
 
-#### 🔨 Languages and Tools
+- 📫 How to reach me **Discord, my favourite platform!**
+
+- ⚡ Fun fact **The quarantine was effective, without it I never had any time to learn javascript or learn how to code a bot.**
+
+## Socials:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DaanGamesDG) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Dave) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/r2GbkqV)
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-#### ❤ Socials
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DaanGamesDG)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Dave)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/r2GbkqV)
-
----
-
 ### <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'> **Github Statistics**:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=daangamesdg&theme=great-gatsby&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaanGamesDG&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daangamesdg&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="daangamesdg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daangamesdg&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="daangamesdg" /></p>
+
 
 ---
 
