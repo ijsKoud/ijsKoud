@@ -15,6 +15,18 @@
 
 - ⚡ Fun fact **The quarantine was effective, without it I never had any time to learn javascript or learn how to code a bot.**
 
+# Projects:
+
+- Stereo | A music bot created using lavalink and typescript. V1 code (used ffmpeg and javascript in that version) will be open source soon, v2 will remain closed to the dev of stereo (me)
+- Unknown Name | A moderation project with amazing commands and good moderation system, the name is still unkown, project is also private.
+- Free to use project | I will be opening a open project soon, in this project i will create a simple moderation bot that you can use in your own server. Check the **Free to use projects** section to find it.
+
+
+## Free To Use Projects:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discord-music-bot&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/DaanGamesDG/discord-music-bot)
+
+---
+
 ## Socials:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DaanGamesDG) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Dave) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/r2GbkqV)
 
@@ -26,11 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daangamesdg&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true" alt="daangamesdg" /></p>
 
-
 ---
-
-## Free To Use Projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discord-music-bot&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/DaanGamesDG/discord-music-bot)
 
 ### 📺 Latest Videos
 <!-- YOUTUBE:START -->
