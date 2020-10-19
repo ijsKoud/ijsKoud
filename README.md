@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [An amazing music bot using ts and lavalink](https://github.com/Stereo-music-bot)
 
-- 👨‍💻 All of my projects are available at (aren't a lot) [https://github.com/DaanGamesDG?tab=repositories](https://github.com/DaanGamesDG?tab=repositories)
+- 👨‍💻 All of my projects are available at (aren't a lot) [link](https://github.com/DaanGamesDG?tab=repositories)
 
 - 💬 Ask me about **anything, I will be glad to help you!**
 
