@@ -21,10 +21,12 @@
 - Stereo | A music bot created using lavalink and typescript. V1 code (used ffmpeg and javascript in that version) will be open source soon, v2 will remain closed to the dev of stereo (me)
 - Unknown Name | A moderation project with amazing commands and good moderation system, the name is still unkown, project is also private.
 - Free to use project | I will be opening a open project soon, in this project i will create a simple moderation bot that you can use in your own server. Check the **Free to use projects** section to find it.
+- [Modmail bot](https://github.com/DaanGamesDG/discordjs-modmail-bot) | an easy to use discord modmail bot created using the discord.js library and typescript.
 
 
 ## Free To Use Projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discord-music-bot&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/DaanGamesDG/discord-music-bot)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discord-music-bot&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/DaanGamesDG/discord-music-bot) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discordjs-modmail-bot&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/DaanGamesDG/discordjs-modmail-bot)
 
 ---
 
