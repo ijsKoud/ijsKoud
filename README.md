@@ -19,12 +19,12 @@
 
 - Tutorial Bot | For the people watching my [tutorial series](https://www.youtube.com/watch?v=uAMg4ogIap8&list=PLjVB1_9bHiWwOuQ50-unh-KnT3Jr11fA3), there is tutorial repo on my github account, check the links below.
 - Unknown Name | A moderation project with amazing commands and good moderation system, the name is still unkown, project is also private.
-- [Stereo](https://github.com/DaanGamesDG/discordjs-modmail-bot) | A music bot created using lavalink and typescript. V1 code (used ffmpeg and javascript in that version) will be open source soon, v2 will remain closed to the dev of stereo (me)
+- [Stereo](https://github.com/DaanGamesDG/discordjs-music-bot) | A music bot created using lavalink and typescript. V1 code (used ffmpeg and javascript in that version) will be open source soon, v2 will remain closed to the dev of stereo (me)
 - [Modmail bot](https://github.com/DaanGamesDG/discordjs-modmail-bot) | an easy to use discord modmail bot created using the discord.js library and typescript.
 
 
 ## Free To Use Projects:
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discord-music-bot&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/DaanGamesDG/discord-music-bot) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discordjs-music-bot&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/DaanGamesDG/discordjs-music-bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discordjs-modmail-bot&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/DaanGamesDG/discordjs-modmail-bot)
 
 ---
