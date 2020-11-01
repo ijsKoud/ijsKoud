@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [website]: https://codeSTACKr.com  
 [youtube]: https://m.youtube.com/channel/UCn9awHv18qumi57E2Hv_jMw 
 [discord]: https://discord.gg/r2GbkqV 
