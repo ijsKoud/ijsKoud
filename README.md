@@ -24,8 +24,8 @@
 
 
 ## Free To Use Projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discordjs-music-bot&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/DaanGamesDG/discordjs-music-bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discordjs-modmail-bot&theme=tokyonight&hide_border=true&show_owner=true)](https://github.com/DaanGamesDG/discordjs-modmail-bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discordjs-music-bot&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/DaanGamesDG/discordjs-music-bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discordjs-modmail-bot&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/DaanGamesDG/discordjs-modmail-bot)
 
 ---
 
