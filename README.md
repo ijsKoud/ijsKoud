@@ -1,6 +1,5 @@
 # Hi 👋, I'm DaanGamesDG
 A 14-year-old developer.
-
 Want to learn more about me? Check out my [portfolio](portfolio.daangamesdg.wtf)
 
 ## Free To Use Projects:
