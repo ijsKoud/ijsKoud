@@ -1,6 +1,6 @@
 # Hi 👋, I'm DaanGamesDG
 A 14-year-old developer.
-Want to learn more about me? Check out my [portfolio](portfolio.daangamesdg.wtf)
+Want to learn more about me? Check out my [portfolio](https://portfolio.daangamesdg.wtf)
 
 ## Free To Use Projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DaanGamesDG&repo=discordjs-music-bot&theme=tokyonight&hide_border=true&show_owner=false)](https://github.com/DaanGamesDG/discordjs-music-bot)
