@@ -11,8 +11,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaanGamesDG&layout=compact&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en" />
-<br />
+
 
 ### Languages & Tools 🛠
 
