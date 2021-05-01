@@ -8,7 +8,7 @@
 - 🏠 Living in the Netherlands
 - ℹ Favourite language: TypeScript
 - ✨ Fun fact: I started my carreer a year ago
-- 🚧 **Current Project:** [Modtech](https://modtech.app)  
+- 🚧 **Current Project:** [Modtech](https://modtech.app) (dashboard)
 
 ---
 
