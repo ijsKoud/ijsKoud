@@ -1,6 +1,6 @@
 <h1 align="center" style="display:none;"></h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DaanGamesDG&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DaanGamesDG&cache_seconds=1800&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
 
 ### Hi, my name is [Daan][website] 👋
 
@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaanGamesDG&layout=compact&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaanGamesDG&cache_seconds=1800&layout=compact&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en" />
 
 ### Languages & Tools 🛠
 
