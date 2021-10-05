@@ -4,11 +4,11 @@
 
 ### Hi, my name is [Daan][website] 👋
 
-- 👨‍💻 15 Years old Developer
+- 👨‍💻 15 Year old Developer
 - 🏠 Living in the Netherlands
 - ℹ Favourite language: TypeScript
 - ✨ Fun fact: I don't have a life
-- 🚧 **Current Project:** No idea
+- 🚧 **Current Project:** [PaperPlane](https://daangamesdg.wtf/github/paperplane)
 
 ---
 
