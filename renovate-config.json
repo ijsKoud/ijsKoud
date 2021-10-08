@@ -16,7 +16,7 @@
 			{
 				"matchPackagePatterns": ["@types/node-fetch"],
 				"allowedVersions": "^2"
-			},
+			}
 		]
 	}
 }
