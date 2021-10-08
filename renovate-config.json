@@ -17,10 +17,6 @@
 				"matchPackagePatterns": ["@types/node-fetch"],
 				"allowedVersions": "^2"
 			},
-			{
-				"matchPackagePatterns": ["@sapphire"],
-				"groupName": "Sapphire Dependencies"
-			}
 		]
 	}
 }
