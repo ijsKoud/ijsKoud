@@ -5,11 +5,6 @@
 		"rangeStrategy": "bump",
 		"packageRules": [
 			{
-				"matchUpdateTypes": ["minor", "patch"],
-				"matchCurrentVersion": "!/^0/",
-				"automerge": true
-			},
-			{
 				"matchPackagePatterns": ["ansi-regex"],
 				"allowedVersions": "^5"
 			},
