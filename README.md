@@ -8,7 +8,7 @@
 - 🏠 Living in the Netherlands
 - ℹ Favourite language: TypeScript
 - ✨ Fun fact: I don't have a life
-- 🚧 **Current Project:** [PaperPlane](https://daangamesdg.wtf/github/paperplane)
+- 🚧 **Current Project:** [PaperPlane](https://daangamesdg.xyz/github/paperplane)
 
 ---
 
@@ -43,6 +43,6 @@
 
 
 
-[website]: https://daangamesdg.wtf/
-[Paypal]: https://paypal.me/daangamesdg
+[website]: https://daangamesdg.xyz/
+[Paypal]: https://daangamesdg.xyz/paypal
 [Spotify]: https://open.spotify.com/user/6nr1zh50k37y29kv2usi6q9wt
