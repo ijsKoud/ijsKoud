@@ -1,6 +1,6 @@
 <h1 align="center" style="display:none;"></h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DaanGamesDG&cache_seconds=1800&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
+<a href="https://discord.com/users/304986851310043136"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/304986851310043136"></a>
 
 ### Hi, my name is [Daan][website] 👋
 
@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaanGamesDG&cache_seconds=1800&layout=compact&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaanGamesDG&cache_seconds=1800&layout=compact&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en" />
 
 ### Languages & Tools 🛠
 
@@ -39,7 +39,19 @@
 [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=fff)][Spotify]
 [![Paypal](https://img.shields.io/badge/-Paypal-008DDA?style=flat-square&logo=paypal&logoColor=fff)][Paypal]
 
-<h1 align="center" style="display:none;"></h1>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DaanGamesDG&cache_seconds=1800&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
+
+---
+
+### :zap: Recent GitHub Activity
+  
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#31](https://github.com/stereo-bot/stereo-website/pull/31) in [stereo-bot/stereo-website](https://github.com/stereo-bot/stereo-website)
+2. 🎉 Merged PR [#22](https://github.com/DaanGamesDG/dh-dashboard/pull/22) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
+3. 🎉 Merged PR [#77](https://github.com/stereo-bot/stereo-v5/pull/77) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
+4. 🎉 Merged PR [#50](https://github.com/DaanGamesDG/dh-assistant/pull/50) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+5. 🎉 Merged PR [#27](https://github.com/DaanGamesDG/logger/pull/27) in [DaanGamesDG/logger](https://github.com/DaanGamesDG/logger)
+<!--END_SECTION:activity-->
 
 
 
