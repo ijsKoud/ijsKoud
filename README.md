@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](https://github.com/stereo-bot/stereo-v5/pull/82) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
-2. ❌ Closed PR [#81](https://github.com/stereo-bot/stereo-v5/pull/81) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
-3. 💪 Opened PR [#81](https://github.com/stereo-bot/stereo-v5/pull/81) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
-4. 🎉 Merged PR [#55](https://github.com/DaanGamesDG/dh-assistant/pull/55) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
-5. 🎉 Merged PR [#54](https://github.com/DaanGamesDG/dh-assistant/pull/54) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+1. 🎉 Merged PR [#83](https://github.com/stereo-bot/stereo-v5/pull/83) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
+2. ❌ Closed PR [#82](https://github.com/stereo-bot/stereo-v5/pull/82) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
+3. 💪 Opened PR [#82](https://github.com/stereo-bot/stereo-v5/pull/82) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
+4. ❌ Closed PR [#81](https://github.com/stereo-bot/stereo-v5/pull/81) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
+5. 💪 Opened PR [#81](https://github.com/stereo-bot/stereo-v5/pull/81) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
 <!--END_SECTION:activity-->
 
 
