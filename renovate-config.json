@@ -2,7 +2,6 @@
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"extends": ["config:base", "helpers:pinGitHubActionDigests", "group:allNonMajor", ":semanticCommits", ":semanticCommitTypeAll(chore)"],
 	"schedule": ["before 12pm on Sunday"],
-	"lockFileMaintenance": { "enabled": true },
 	"npm": {
 		"rangeStrategy": "bump",
 		"packageRules": [
