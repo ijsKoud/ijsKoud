@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/DaanGamesDG/project-template/pull/40) in [DaanGamesDG/project-template](https://github.com/DaanGamesDG/project-template)
-2. 🎉 Merged PR [#8](https://github.com/DaanGamesDG/sapphire-logger/pull/8) in [DaanGamesDG/sapphire-logger](https://github.com/DaanGamesDG/sapphire-logger)
-3. 🎉 Merged PR [#94](https://github.com/stereo-bot/stereo-v5/pull/94) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
-4. 🎉 Merged PR [#70](https://github.com/DaanGamesDG/bot-template/pull/70) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
-5. 🎉 Merged PR [#37](https://github.com/DaanGamesDG/logger/pull/37) in [DaanGamesDG/logger](https://github.com/DaanGamesDG/logger)
+1. 🎉 Merged PR [#3](https://github.com/DaanGamesDG/discord-giveaways/pull/3) in [DaanGamesDG/discord-giveaways](https://github.com/DaanGamesDG/discord-giveaways)
+2. 🎉 Merged PR [#40](https://github.com/DaanGamesDG/project-template/pull/40) in [DaanGamesDG/project-template](https://github.com/DaanGamesDG/project-template)
+3. 🎉 Merged PR [#8](https://github.com/DaanGamesDG/sapphire-logger/pull/8) in [DaanGamesDG/sapphire-logger](https://github.com/DaanGamesDG/sapphire-logger)
+4. 🎉 Merged PR [#94](https://github.com/stereo-bot/stereo-v5/pull/94) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
+5. 🎉 Merged PR [#70](https://github.com/DaanGamesDG/bot-template/pull/70) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
 <!--END_SECTION:activity-->
 
 
