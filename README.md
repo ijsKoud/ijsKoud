@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/DaanGamesDG/dh-assistant/pull/66) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
-2. 🎉 Merged PR [#67](https://github.com/DaanGamesDG/dh-assistant/pull/67) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
-3. 🎉 Merged PR [#3](https://github.com/DaanGamesDG/discord-giveaways/pull/3) in [DaanGamesDG/discord-giveaways](https://github.com/DaanGamesDG/discord-giveaways)
-4. 🎉 Merged PR [#40](https://github.com/DaanGamesDG/project-template/pull/40) in [DaanGamesDG/project-template](https://github.com/DaanGamesDG/project-template)
-5. 🎉 Merged PR [#8](https://github.com/DaanGamesDG/sapphire-logger/pull/8) in [DaanGamesDG/sapphire-logger](https://github.com/DaanGamesDG/sapphire-logger)
+1. 🎉 Merged PR [#30](https://github.com/stereo-bot/lavalink/pull/30) in [stereo-bot/lavalink](https://github.com/stereo-bot/lavalink)
+2. 🎉 Merged PR [#38](https://github.com/DaanGamesDG/logger/pull/38) in [DaanGamesDG/logger](https://github.com/DaanGamesDG/logger)
+3. 🎉 Merged PR [#4](https://github.com/DaanGamesDG/discord-giveaways/pull/4) in [DaanGamesDG/discord-giveaways](https://github.com/DaanGamesDG/discord-giveaways)
+4. 🎉 Merged PR [#41](https://github.com/DaanGamesDG/project-template/pull/41) in [DaanGamesDG/project-template](https://github.com/DaanGamesDG/project-template)
+5. 🎉 Merged PR [#9](https://github.com/DaanGamesDG/sapphire-logger/pull/9) in [DaanGamesDG/sapphire-logger](https://github.com/DaanGamesDG/sapphire-logger)
 <!--END_SECTION:activity-->
 
 
