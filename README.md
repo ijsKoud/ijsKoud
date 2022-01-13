@@ -52,7 +52,7 @@
 2. 🗣 Commented on [#78](https://github.com/DaanGamesDG/PaperPlane/issues/78) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
 3. 🗣 Commented on [#78](https://github.com/DaanGamesDG/PaperPlane/issues/78) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
 4. 🗣 Commented on [#78](https://github.com/DaanGamesDG/PaperPlane/issues/78) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-5. ❌ Closed PR [#49](https://github.com/stereo-bot/stereo-website/pull/49) in [stereo-bot/stereo-website](https://github.com/stereo-bot/stereo-website)
+5. 🗣 Commented on [#78](https://github.com/DaanGamesDG/PaperPlane/issues/78) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
 <!--END_SECTION:activity-->
 
 
