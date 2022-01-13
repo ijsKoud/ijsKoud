@@ -49,10 +49,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#78](https://github.com/DaanGamesDG/PaperPlane/issues/78) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-2. ❌ Closed PR [#49](https://github.com/stereo-bot/stereo-website/pull/49) in [stereo-bot/stereo-website](https://github.com/stereo-bot/stereo-website)
-3. 🎉 Merged PR [#68](https://github.com/DaanGamesDG/dh-assistant/pull/68) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
-4. 🎉 Merged PR [#45](https://github.com/DaanGamesDG/dh-dashboard/pull/45) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
-5. 🎉 Merged PR [#3](https://github.com/DaanGamesDG/PaperPlane-docs/pull/3) in [DaanGamesDG/PaperPlane-docs](https://github.com/DaanGamesDG/PaperPlane-docs)
+2. 🗣 Commented on [#78](https://github.com/DaanGamesDG/PaperPlane/issues/78) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+3. 🗣 Commented on [#78](https://github.com/DaanGamesDG/PaperPlane/issues/78) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+4. ❌ Closed PR [#49](https://github.com/stereo-bot/stereo-website/pull/49) in [stereo-bot/stereo-website](https://github.com/stereo-bot/stereo-website)
+5. 🎉 Merged PR [#68](https://github.com/DaanGamesDG/dh-assistant/pull/68) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
 <!--END_SECTION:activity-->
 
 
