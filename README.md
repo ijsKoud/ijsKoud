@@ -48,10 +48,10 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/DaanGamesDG/PaperPlane/issues/78) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-2. ❗️ Opened issue [#80](https://github.com/DaanGamesDG/PaperPlane/issues/80) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-3. ❗️ Opened issue [#79](https://github.com/DaanGamesDG/PaperPlane/issues/79) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-4. 🗣 Commented on [#78](https://github.com/DaanGamesDG/PaperPlane/issues/78) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+1. 🎉 Merged PR [#47](https://github.com/DaanGamesDG/dh-dashboard/pull/47) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
+2. 🗣 Commented on [#78](https://github.com/DaanGamesDG/PaperPlane/issues/78) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+3. ❗️ Opened issue [#80](https://github.com/DaanGamesDG/PaperPlane/issues/80) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+4. ❗️ Opened issue [#79](https://github.com/DaanGamesDG/PaperPlane/issues/79) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
 5. 🗣 Commented on [#78](https://github.com/DaanGamesDG/PaperPlane/issues/78) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
 <!--END_SECTION:activity-->
 
