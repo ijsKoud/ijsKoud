@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/DaanGamesDG/sapphire-logger/pull/10) in [DaanGamesDG/sapphire-logger](https://github.com/DaanGamesDG/sapphire-logger)
-2. 🎉 Merged PR [#70](https://github.com/DaanGamesDG/dh-assistant/pull/70) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
-3. ❗️ Opened issue [#75](https://github.com/DaanGamesDG/dh-assistant/issues/75) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
-4. ❗️ Opened issue [#74](https://github.com/DaanGamesDG/dh-assistant/issues/74) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
-5. ❗️ Opened issue [#73](https://github.com/DaanGamesDG/dh-assistant/issues/73) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+1. 💪 Opened PR [#80](https://github.com/DaanGamesDG/dh-assistant/pull/80) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+2. ❗️ Opened issue [#79](https://github.com/DaanGamesDG/dh-assistant/issues/79) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+3. ❗️ Opened issue [#78](https://github.com/DaanGamesDG/dh-assistant/issues/78) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+4. ❗️ Closed issue [#75](https://github.com/DaanGamesDG/dh-assistant/issues/75) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+5. 🎉 Merged PR [#76](https://github.com/DaanGamesDG/dh-assistant/pull/76) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
 <!--END_SECTION:activity-->
 
 
