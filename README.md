@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#79](https://github.com/DaanGamesDG/dh-assistant/issues/79) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
-2. 🗣 Commented on [#79](https://github.com/DaanGamesDG/dh-assistant/issues/79) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
-3. ❗️ Closed issue [#72](https://github.com/DaanGamesDG/dh-assistant/issues/72) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
-4. 🗣 Commented on [#72](https://github.com/DaanGamesDG/dh-assistant/issues/72) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
-5. ❗️ Closed issue [#74](https://github.com/DaanGamesDG/dh-assistant/issues/74) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+1. 🎉 Merged PR [#49](https://github.com/DaanGamesDG/dh-dashboard/pull/49) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
+2. ❗️ Closed issue [#79](https://github.com/DaanGamesDG/dh-assistant/issues/79) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+3. 🗣 Commented on [#79](https://github.com/DaanGamesDG/dh-assistant/issues/79) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+4. ❗️ Closed issue [#72](https://github.com/DaanGamesDG/dh-assistant/issues/72) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+5. 🗣 Commented on [#72](https://github.com/DaanGamesDG/dh-assistant/issues/72) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
 <!--END_SECTION:activity-->
 
 
