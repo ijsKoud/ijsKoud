@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/DaanGamesDG/dh-assistant/pull/84) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
-2. 🎉 Merged PR [#76](https://github.com/DaanGamesDG/bot-template/pull/76) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
-3. 🎉 Merged PR [#101](https://github.com/stereo-bot/stereo-v5/pull/101) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
-4. 🎉 Merged PR [#85](https://github.com/DaanGamesDG/PaperPlane/pull/85) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-5. 🎉 Merged PR [#51](https://github.com/DaanGamesDG/dh-dashboard/pull/51) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
+1. 🎉 Merged PR [#84](https://github.com/DaanGamesDG/PaperPlane/pull/84) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+2. 🎉 Merged PR [#52](https://github.com/stereo-bot/stereo-website/pull/52) in [stereo-bot/stereo-website](https://github.com/stereo-bot/stereo-website)
+3. 🎉 Merged PR [#99](https://github.com/stereo-bot/stereo-v5/pull/99) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
+4. 🎉 Merged PR [#75](https://github.com/DaanGamesDG/bot-template/pull/75) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
+5. 🎉 Merged PR [#84](https://github.com/DaanGamesDG/dh-assistant/pull/84) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
 <!--END_SECTION:activity-->
 
 
