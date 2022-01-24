@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/DaanGamesDG/PaperPlane/pull/84) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-2. 🎉 Merged PR [#52](https://github.com/stereo-bot/stereo-website/pull/52) in [stereo-bot/stereo-website](https://github.com/stereo-bot/stereo-website)
-3. 🎉 Merged PR [#99](https://github.com/stereo-bot/stereo-v5/pull/99) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
-4. 🎉 Merged PR [#75](https://github.com/DaanGamesDG/bot-template/pull/75) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
-5. 🎉 Merged PR [#84](https://github.com/DaanGamesDG/dh-assistant/pull/84) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+1. 🎉 Merged PR [#74](https://github.com/DaanGamesDG/bot-template/pull/74) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
+2. 🎉 Merged PR [#5](https://github.com/DaanGamesDG/nextjs-template/pull/5) in [DaanGamesDG/nextjs-template](https://github.com/DaanGamesDG/nextjs-template)
+3. 🎉 Merged PR [#40](https://github.com/DaanGamesDG/logger/pull/40) in [DaanGamesDG/logger](https://github.com/DaanGamesDG/logger)
+4. 🎉 Merged PR [#32](https://github.com/stereo-bot/lavalink/pull/32) in [stereo-bot/lavalink](https://github.com/stereo-bot/lavalink)
+5. 🎉 Merged PR [#12](https://github.com/DaanGamesDG/youtube-notifications/pull/12) in [DaanGamesDG/youtube-notifications](https://github.com/DaanGamesDG/youtube-notifications)
 <!--END_SECTION:activity-->
 
 
