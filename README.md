@@ -50,9 +50,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#87](https://github.com/DaanGamesDG/PaperPlane/issues/87) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
 2. 🗣 Commented on [#87](https://github.com/DaanGamesDG/PaperPlane/issues/87) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-3. 🎉 Merged PR [#86](https://github.com/DaanGamesDG/PaperPlane/pull/86) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-4. 🎉 Merged PR [#54](https://github.com/DaanGamesDG/dh-dashboard/pull/54) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
-5. 🎉 Merged PR [#53](https://github.com/stereo-bot/stereo-website/pull/53) in [stereo-bot/stereo-website](https://github.com/stereo-bot/stereo-website)
+3. 🗣 Commented on [#87](https://github.com/DaanGamesDG/PaperPlane/issues/87) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+4. 🗣 Commented on [#87](https://github.com/DaanGamesDG/PaperPlane/issues/87) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+5. 🗣 Commented on [#87](https://github.com/DaanGamesDG/PaperPlane/issues/87) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
 <!--END_SECTION:activity-->
 
 
