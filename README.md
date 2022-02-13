@@ -4,7 +4,7 @@
 
 ### Hi, my name is [Daan][website] 👋
 
-- 👨‍💻 15 Year old Developer
+- 👨‍💻 16 Year old Developer
 - 🏠 Living in the Netherlands
 - ℹ Favourite language: TypeScript
 - ✨ Fun fact: I don't have a life
