@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/DaanGamesDG/PaperPlane/pull/89) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-2. 🎉 Merged PR [#34](https://github.com/stereo-bot/lavalink/pull/34) in [stereo-bot/lavalink](https://github.com/stereo-bot/lavalink)
-3. 🎉 Merged PR [#42](https://github.com/DaanGamesDG/logger/pull/42) in [DaanGamesDG/logger](https://github.com/DaanGamesDG/logger)
-4. 🎉 Merged PR [#45](https://github.com/DaanGamesDG/project-template/pull/45) in [DaanGamesDG/project-template](https://github.com/DaanGamesDG/project-template)
-5. 🎉 Merged PR [#86](https://github.com/DaanGamesDG/dh-assistant/pull/86) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+1. 🎉 Merged PR [#35](https://github.com/stereo-bot/lavalink/pull/35) in [stereo-bot/lavalink](https://github.com/stereo-bot/lavalink)
+2. 🎉 Merged PR [#43](https://github.com/DaanGamesDG/logger/pull/43) in [DaanGamesDG/logger](https://github.com/DaanGamesDG/logger)
+3. 🎉 Merged PR [#14](https://github.com/DaanGamesDG/youtube-notifications/pull/14) in [DaanGamesDG/youtube-notifications](https://github.com/DaanGamesDG/youtube-notifications)
+4. 🎉 Merged PR [#14](https://github.com/DaanGamesDG/sapphire-logger/pull/14) in [DaanGamesDG/sapphire-logger](https://github.com/DaanGamesDG/sapphire-logger)
+5. 🎉 Merged PR [#88](https://github.com/DaanGamesDG/dh-assistant/pull/88) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
 <!--END_SECTION:activity-->
 
 
