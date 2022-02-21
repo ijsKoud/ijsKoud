@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/DaanGamesDG/nextjs-template/pull/10) in [DaanGamesDG/nextjs-template](https://github.com/DaanGamesDG/nextjs-template)
-2. 🎉 Merged PR [#57](https://github.com/DaanGamesDG/dh-dashboard/pull/57) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
-3. 🎉 Merged PR [#91](https://github.com/DaanGamesDG/PaperPlane/pull/91) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-4. 🎉 Merged PR [#88](https://github.com/DaanGamesDG/PaperPlane/pull/88) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-5. 🎉 Merged PR [#54](https://github.com/stereo-bot/stereo-website/pull/54) in [stereo-bot/stereo-website](https://github.com/stereo-bot/stereo-website)
+1. 🎉 Merged PR [#15](https://github.com/DaanGamesDG/sapphire-logger/pull/15) in [DaanGamesDG/sapphire-logger](https://github.com/DaanGamesDG/sapphire-logger)
+2. 🎉 Merged PR [#15](https://github.com/DaanGamesDG/youtube-notifications/pull/15) in [DaanGamesDG/youtube-notifications](https://github.com/DaanGamesDG/youtube-notifications)
+3. 🎉 Merged PR [#12](https://github.com/DaanGamesDG/nextjs-template/pull/12) in [DaanGamesDG/nextjs-template](https://github.com/DaanGamesDG/nextjs-template)
+4. 🎉 Merged PR [#94](https://github.com/DaanGamesDG/PaperPlane/pull/94) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+5. 🎉 Merged PR [#89](https://github.com/DaanGamesDG/dh-assistant/pull/89) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
 <!--END_SECTION:activity-->
 
 
