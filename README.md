@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/DaanGamesDG/PaperPlane/issues/97) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+1. 💪 Opened PR [#1](https://github.com/Luxxy-Hosting/paperplane/pull/1) in [Luxxy-Hosting/paperplane](https://github.com/Luxxy-Hosting/paperplane)
 2. 🗣 Commented on [#97](https://github.com/DaanGamesDG/PaperPlane/issues/97) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-3. 🎉 Merged PR [#62](https://github.com/DaanGamesDG/dh-dashboard/pull/62) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
-4. 🎉 Merged PR [#103](https://github.com/stereo-bot/stereo-v5/pull/103) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
-5. 🎉 Merged PR [#106](https://github.com/stereo-bot/stereo-v5/pull/106) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
+3. 🗣 Commented on [#97](https://github.com/DaanGamesDG/PaperPlane/issues/97) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+4. 🎉 Merged PR [#62](https://github.com/DaanGamesDG/dh-dashboard/pull/62) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
+5. 🎉 Merged PR [#103](https://github.com/stereo-bot/stereo-v5/pull/103) in [stereo-bot/stereo-v5](https://github.com/stereo-bot/stereo-v5)
 <!--END_SECTION:activity-->
 
 
