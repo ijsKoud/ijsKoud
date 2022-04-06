@@ -48,10 +48,10 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Luxxy-Hosting/PaperPlane/issues/1) in [Luxxy-Hosting/PaperPlane](https://github.com/Luxxy-Hosting/PaperPlane)
+1. 🎉 Merged PR [#6](https://github.com/DaanGamesDG/PaperPlane-docs/pull/6) in [DaanGamesDG/PaperPlane-docs](https://github.com/DaanGamesDG/PaperPlane-docs)
 2. 🗣 Commented on [#1](https://github.com/Luxxy-Hosting/PaperPlane/issues/1) in [Luxxy-Hosting/PaperPlane](https://github.com/Luxxy-Hosting/PaperPlane)
-3. 💪 Opened PR [#1](https://github.com/Luxxy-Hosting/paperplane/pull/1) in [Luxxy-Hosting/paperplane](https://github.com/Luxxy-Hosting/paperplane)
-4. 🗣 Commented on [#97](https://github.com/DaanGamesDG/PaperPlane/issues/97) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+3. 🗣 Commented on [#1](https://github.com/Luxxy-Hosting/PaperPlane/issues/1) in [Luxxy-Hosting/PaperPlane](https://github.com/Luxxy-Hosting/PaperPlane)
+4. 💪 Opened PR [#1](https://github.com/Luxxy-Hosting/paperplane/pull/1) in [Luxxy-Hosting/paperplane](https://github.com/Luxxy-Hosting/paperplane)
 5. 🗣 Commented on [#97](https://github.com/DaanGamesDG/PaperPlane/issues/97) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
 <!--END_SECTION:activity-->
 
