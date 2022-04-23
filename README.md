@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/DaanGamesDG/PaperPlane-docs/pull/6) in [DaanGamesDG/PaperPlane-docs](https://github.com/DaanGamesDG/PaperPlane-docs)
-2. 🗣 Commented on [#1](https://github.com/Luxxy-Hosting/PaperPlane/issues/1) in [Luxxy-Hosting/PaperPlane](https://github.com/Luxxy-Hosting/PaperPlane)
-3. 🗣 Commented on [#1](https://github.com/Luxxy-Hosting/PaperPlane/issues/1) in [Luxxy-Hosting/PaperPlane](https://github.com/Luxxy-Hosting/PaperPlane)
-4. 💪 Opened PR [#1](https://github.com/Luxxy-Hosting/paperplane/pull/1) in [Luxxy-Hosting/paperplane](https://github.com/Luxxy-Hosting/paperplane)
-5. 🗣 Commented on [#97](https://github.com/DaanGamesDG/PaperPlane/issues/97) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+1. 🎉 Merged PR [#86](https://github.com/DaanGamesDG/bot-template/pull/86) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
+2. 🎉 Merged PR [#87](https://github.com/DaanGamesDG/bot-template/pull/87) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
+3. 🎉 Merged PR [#85](https://github.com/DaanGamesDG/bot-template/pull/85) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
+4. 🎉 Merged PR [#6](https://github.com/DaanGamesDG/PaperPlane-docs/pull/6) in [DaanGamesDG/PaperPlane-docs](https://github.com/DaanGamesDG/PaperPlane-docs)
+5. 🗣 Commented on [#1](https://github.com/Luxxy-Hosting/PaperPlane/issues/1) in [Luxxy-Hosting/PaperPlane](https://github.com/Luxxy-Hosting/PaperPlane)
 <!--END_SECTION:activity-->
 
 
