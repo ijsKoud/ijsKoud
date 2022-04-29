@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com/DaanGamesDG/bot-template/pull/86) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
-2. 🎉 Merged PR [#87](https://github.com/DaanGamesDG/bot-template/pull/87) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
-3. 🎉 Merged PR [#85](https://github.com/DaanGamesDG/bot-template/pull/85) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
-4. 🎉 Merged PR [#6](https://github.com/DaanGamesDG/PaperPlane-docs/pull/6) in [DaanGamesDG/PaperPlane-docs](https://github.com/DaanGamesDG/PaperPlane-docs)
-5. 🗣 Commented on [#1](https://github.com/Luxxy-Hosting/PaperPlane/issues/1) in [Luxxy-Hosting/PaperPlane](https://github.com/Luxxy-Hosting/PaperPlane)
+1. ❌ Closed PR [#65](https://github.com/DaanGamesDG/dh-dashboard/pull/65) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
+2. 🎉 Merged PR [#66](https://github.com/DaanGamesDG/dh-dashboard/pull/66) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
+3. 🎉 Merged PR [#63](https://github.com/DaanGamesDG/dh-dashboard/pull/63) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
+4. 🎉 Merged PR [#68](https://github.com/DaanGamesDG/dh-dashboard/pull/68) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
+5. 🎉 Merged PR [#41](https://github.com/stereo-bot/lavalink/pull/41) in [stereo-bot/lavalink](https://github.com/stereo-bot/lavalink)
 <!--END_SECTION:activity-->
 
 
