@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#65](https://github.com/DaanGamesDG/dh-dashboard/pull/65) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
-2. 🎉 Merged PR [#66](https://github.com/DaanGamesDG/dh-dashboard/pull/66) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
-3. 🎉 Merged PR [#63](https://github.com/DaanGamesDG/dh-dashboard/pull/63) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
-4. 🎉 Merged PR [#68](https://github.com/DaanGamesDG/dh-dashboard/pull/68) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
-5. 🎉 Merged PR [#41](https://github.com/stereo-bot/lavalink/pull/41) in [stereo-bot/lavalink](https://github.com/stereo-bot/lavalink)
+1. 🎉 Merged PR [#106](https://github.com/DaanGamesDG/PaperPlane/pull/106) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+2. 🎉 Merged PR [#15](https://github.com/DaanGamesDG/nextjs-template/pull/15) in [DaanGamesDG/nextjs-template](https://github.com/DaanGamesDG/nextjs-template)
+3. 🎉 Merged PR [#14](https://github.com/DaanGamesDG/nextjs-template/pull/14) in [DaanGamesDG/nextjs-template](https://github.com/DaanGamesDG/nextjs-template)
+4. 🎉 Merged PR [#13](https://github.com/DaanGamesDG/nextjs-template/pull/13) in [DaanGamesDG/nextjs-template](https://github.com/DaanGamesDG/nextjs-template)
+5. ❌ Closed PR [#65](https://github.com/DaanGamesDG/dh-dashboard/pull/65) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
 <!--END_SECTION:activity-->
 
 
