@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/stereo-bot/website/pull/6) in [stereo-bot/website](https://github.com/stereo-bot/website)
-2. 💪 Opened PR [#6](https://github.com/stereo-bot/website/pull/6) in [stereo-bot/website](https://github.com/stereo-bot/website)
-3. 🎉 Merged PR [#5](https://github.com/stereo-bot/website/pull/5) in [stereo-bot/website](https://github.com/stereo-bot/website)
-4. 💪 Opened PR [#5](https://github.com/stereo-bot/website/pull/5) in [stereo-bot/website](https://github.com/stereo-bot/website)
-5. 🎉 Merged PR [#4](https://github.com/stereo-bot/website/pull/4) in [stereo-bot/website](https://github.com/stereo-bot/website)
+1. 💪 Opened PR [#7](https://github.com/stereo-bot/website/pull/7) in [stereo-bot/website](https://github.com/stereo-bot/website)
+2. 🎉 Merged PR [#6](https://github.com/stereo-bot/website/pull/6) in [stereo-bot/website](https://github.com/stereo-bot/website)
+3. 💪 Opened PR [#6](https://github.com/stereo-bot/website/pull/6) in [stereo-bot/website](https://github.com/stereo-bot/website)
+4. 🎉 Merged PR [#5](https://github.com/stereo-bot/website/pull/5) in [stereo-bot/website](https://github.com/stereo-bot/website)
+5. 💪 Opened PR [#5](https://github.com/stereo-bot/website/pull/5) in [stereo-bot/website](https://github.com/stereo-bot/website)
 <!--END_SECTION:activity-->
 
 
