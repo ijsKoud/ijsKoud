@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/stereo-bot/website/pull/4) in [stereo-bot/website](https://github.com/stereo-bot/website)
-2. 💪 Opened PR [#4](https://github.com/stereo-bot/website/pull/4) in [stereo-bot/website](https://github.com/stereo-bot/website)
-3. 🎉 Merged PR [#2](https://github.com/stereo-bot/website/pull/2) in [stereo-bot/website](https://github.com/stereo-bot/website)
-4. 🎉 Merged PR [#23](https://github.com/DaanGamesDG/youtube-notifications/pull/23) in [DaanGamesDG/youtube-notifications](https://github.com/DaanGamesDG/youtube-notifications)
-5. 🎉 Merged PR [#3](https://github.com/stereo-bot/website/pull/3) in [stereo-bot/website](https://github.com/stereo-bot/website)
+1. 💪 Opened PR [#5](https://github.com/stereo-bot/website/pull/5) in [stereo-bot/website](https://github.com/stereo-bot/website)
+2. 🎉 Merged PR [#4](https://github.com/stereo-bot/website/pull/4) in [stereo-bot/website](https://github.com/stereo-bot/website)
+3. 💪 Opened PR [#4](https://github.com/stereo-bot/website/pull/4) in [stereo-bot/website](https://github.com/stereo-bot/website)
+4. 🎉 Merged PR [#2](https://github.com/stereo-bot/website/pull/2) in [stereo-bot/website](https://github.com/stereo-bot/website)
+5. 🎉 Merged PR [#23](https://github.com/DaanGamesDG/youtube-notifications/pull/23) in [DaanGamesDG/youtube-notifications](https://github.com/DaanGamesDG/youtube-notifications)
 <!--END_SECTION:activity-->
 
 
