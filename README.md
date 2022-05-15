@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/stereo-bot/website/pull/23) in [stereo-bot/website](https://github.com/stereo-bot/website)
-2. 🎉 Merged PR [#24](https://github.com/stereo-bot/website/pull/24) in [stereo-bot/website](https://github.com/stereo-bot/website)
-3. 🎉 Merged PR [#90](https://github.com/DaanGamesDG/bot-template/pull/90) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
-4. 🎉 Merged PR [#91](https://github.com/DaanGamesDG/bot-template/pull/91) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
-5. 🎉 Merged PR [#2](https://github.com/stereo-bot/spyro/pull/2) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+1. 🎉 Merged PR [#92](https://github.com/DaanGamesDG/bot-template/pull/92) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
+2. 💪 Opened PR [#4](https://github.com/stereo-bot/spyro/pull/4) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+3. 🎉 Merged PR [#23](https://github.com/stereo-bot/website/pull/23) in [stereo-bot/website](https://github.com/stereo-bot/website)
+4. 🎉 Merged PR [#24](https://github.com/stereo-bot/website/pull/24) in [stereo-bot/website](https://github.com/stereo-bot/website)
+5. 🎉 Merged PR [#90](https://github.com/DaanGamesDG/bot-template/pull/90) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
 <!--END_SECTION:activity-->
 
 
