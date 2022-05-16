@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/stereo-bot/spyro/pull/6) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
-2. 🎉 Merged PR [#4](https://github.com/stereo-bot/spyro/pull/4) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
-3. 🎉 Merged PR [#24](https://github.com/DaanGamesDG/sapphire-logger/pull/24) in [DaanGamesDG/sapphire-logger](https://github.com/DaanGamesDG/sapphire-logger)
-4. 🎉 Merged PR [#23](https://github.com/DaanGamesDG/sapphire-logger/pull/23) in [DaanGamesDG/sapphire-logger](https://github.com/DaanGamesDG/sapphire-logger)
-5. 🎉 Merged PR [#92](https://github.com/DaanGamesDG/bot-template/pull/92) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
+1. 🎉 Merged PR [#6](https://github.com/stereo-bot/spyro/pull/6) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+2. 💪 Opened PR [#6](https://github.com/stereo-bot/spyro/pull/6) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+3. 🎉 Merged PR [#4](https://github.com/stereo-bot/spyro/pull/4) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+4. 🎉 Merged PR [#24](https://github.com/DaanGamesDG/sapphire-logger/pull/24) in [DaanGamesDG/sapphire-logger](https://github.com/DaanGamesDG/sapphire-logger)
+5. 🎉 Merged PR [#23](https://github.com/DaanGamesDG/sapphire-logger/pull/23) in [DaanGamesDG/sapphire-logger](https://github.com/DaanGamesDG/sapphire-logger)
 <!--END_SECTION:activity-->
 
 
