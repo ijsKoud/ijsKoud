@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/DaanGamesDG/PaperPlane-docs/pull/8) in [DaanGamesDG/PaperPlane-docs](https://github.com/DaanGamesDG/PaperPlane-docs)
-2. 🎉 Merged PR [#24](https://github.com/DaanGamesDG/youtube-notifications/pull/24) in [DaanGamesDG/youtube-notifications](https://github.com/DaanGamesDG/youtube-notifications)
-3. 🎉 Merged PR [#109](https://github.com/DaanGamesDG/PaperPlane/pull/109) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-4. 🎉 Merged PR [#108](https://github.com/DaanGamesDG/PaperPlane/pull/108) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-5. 🎉 Merged PR [#99](https://github.com/DaanGamesDG/dh-assistant/pull/99) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+1. 🎉 Merged PR [#19](https://github.com/DaanGamesDG/nextjs-template/pull/19) in [DaanGamesDG/nextjs-template](https://github.com/DaanGamesDG/nextjs-template)
+2. 🎉 Merged PR [#95](https://github.com/DaanGamesDG/bot-template/pull/95) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
+3. 🎉 Merged PR [#27](https://github.com/DaanGamesDG/sapphire-logger/pull/27) in [DaanGamesDG/sapphire-logger](https://github.com/DaanGamesDG/sapphire-logger)
+4. 🎉 Merged PR [#8](https://github.com/DaanGamesDG/PaperPlane-docs/pull/8) in [DaanGamesDG/PaperPlane-docs](https://github.com/DaanGamesDG/PaperPlane-docs)
+5. 🎉 Merged PR [#24](https://github.com/DaanGamesDG/youtube-notifications/pull/24) in [DaanGamesDG/youtube-notifications](https://github.com/DaanGamesDG/youtube-notifications)
 <!--END_SECTION:activity-->
 
 
