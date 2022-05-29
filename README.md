@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/DaanGamesDG/PaperPlane-docs/pull/9) in [DaanGamesDG/PaperPlane-docs](https://github.com/DaanGamesDG/PaperPlane-docs)
-2. 🎉 Merged PR [#13](https://github.com/stereo-bot/github-bot/pull/13) in [stereo-bot/github-bot](https://github.com/stereo-bot/github-bot)
-3. 🎉 Merged PR [#19](https://github.com/stereo-bot/spyro/pull/19) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
-4. 🎉 Merged PR [#96](https://github.com/DaanGamesDG/bot-template/pull/96) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
-5. 🎉 Merged PR [#20](https://github.com/DaanGamesDG/nextjs-template/pull/20) in [DaanGamesDG/nextjs-template](https://github.com/DaanGamesDG/nextjs-template)
+1. 🎉 Merged PR [#21](https://github.com/stereo-bot/spyro/pull/21) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+2. ❗️ Closed issue [#15](https://github.com/stereo-bot/spyro/issues/15) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+3. 💪 Opened PR [#21](https://github.com/stereo-bot/spyro/pull/21) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+4. ❗️ Closed issue [#16](https://github.com/stereo-bot/spyro/issues/16) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+5. 🎉 Merged PR [#20](https://github.com/stereo-bot/spyro/pull/20) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
 <!--END_SECTION:activity-->
 
 
