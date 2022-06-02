@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/stereo-bot/spyro/pull/26) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
-2. 🎉 Merged PR [#25](https://github.com/stereo-bot/spyro/pull/25) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
-3. 💪 Opened PR [#25](https://github.com/stereo-bot/spyro/pull/25) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
-4. 🗣 Commented on [#112](https://github.com/DaanGamesDG/PaperPlane/issues/112) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-5. 🎉 Merged PR [#24](https://github.com/stereo-bot/spyro/pull/24) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+1. 🎉 Merged PR [#2](https://github.com/DaanGamesDG/website/pull/2) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
+2. 💪 Opened PR [#2](https://github.com/DaanGamesDG/website/pull/2) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
+3. 💪 Opened PR [#26](https://github.com/stereo-bot/spyro/pull/26) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+4. 🎉 Merged PR [#25](https://github.com/stereo-bot/spyro/pull/25) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+5. 💪 Opened PR [#25](https://github.com/stereo-bot/spyro/pull/25) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
 <!--END_SECTION:activity-->
 
 
