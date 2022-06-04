@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/DaanGamesDG/website/pull/3) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
-2. 💪 Opened PR [#3](https://github.com/DaanGamesDG/website/pull/3) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
-3. 🎉 Merged PR [#2](https://github.com/DaanGamesDG/website/pull/2) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
-4. 💪 Opened PR [#2](https://github.com/DaanGamesDG/website/pull/2) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
-5. 💪 Opened PR [#26](https://github.com/stereo-bot/spyro/pull/26) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+1. 🎉 Merged PR [#5](https://github.com/DaanGamesDG/website/pull/5) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
+2. 💪 Opened PR [#5](https://github.com/DaanGamesDG/website/pull/5) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
+3. ❗️ Opened issue [#4](https://github.com/DaanGamesDG/website/issues/4) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
+4. 🎉 Merged PR [#3](https://github.com/DaanGamesDG/website/pull/3) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
+5. 💪 Opened PR [#3](https://github.com/DaanGamesDG/website/pull/3) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
 <!--END_SECTION:activity-->
 
 
