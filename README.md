@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/DaanGamesDG/website/pull/7) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
-2. 🎉 Merged PR [#97](https://github.com/DaanGamesDG/bot-template/pull/97) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
-3. 🎉 Merged PR [#14](https://github.com/stereo-bot/github-bot/pull/14) in [stereo-bot/github-bot](https://github.com/stereo-bot/github-bot)
-4. 🎉 Merged PR [#21](https://github.com/DaanGamesDG/nextjs-template/pull/21) in [DaanGamesDG/nextjs-template](https://github.com/DaanGamesDG/nextjs-template)
-5. 🎉 Merged PR [#29](https://github.com/DaanGamesDG/sapphire-logger/pull/29) in [DaanGamesDG/sapphire-logger](https://github.com/DaanGamesDG/sapphire-logger)
+1. 🎉 Merged PR [#70](https://github.com/DaanGamesDG/dh-dashboard/pull/70) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
+2. ❌ Closed PR [#96](https://github.com/DaanGamesDG/dh-assistant/pull/96) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+3. 🎉 Merged PR [#95](https://github.com/DaanGamesDG/dh-assistant/pull/95) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+4. 🎉 Merged PR [#93](https://github.com/DaanGamesDG/dh-assistant/pull/93) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
+5. 🎉 Merged PR [#90](https://github.com/DaanGamesDG/dh-assistant/pull/90) in [DaanGamesDG/dh-assistant](https://github.com/DaanGamesDG/dh-assistant)
 <!--END_SECTION:activity-->
 
 
