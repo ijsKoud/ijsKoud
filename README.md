@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/DaanGamesDG/dh-dashboard/pull/59) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
-2. ❌ Closed PR [#101](https://github.com/DaanGamesDG/PaperPlane/pull/101) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-3. 🎉 Merged PR [#99](https://github.com/DaanGamesDG/PaperPlane/pull/99) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-4. 🎉 Merged PR [#69](https://github.com/DaanGamesDG/dh-dashboard/pull/69) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
-5. ❌ Closed PR [#67](https://github.com/DaanGamesDG/dh-dashboard/pull/67) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
+1. 🎉 Merged PR [#93](https://github.com/DaanGamesDG/PaperPlane/pull/93) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+2. 🎉 Merged PR [#105](https://github.com/DaanGamesDG/PaperPlane/pull/105) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+3. 🎉 Merged PR [#59](https://github.com/DaanGamesDG/dh-dashboard/pull/59) in [DaanGamesDG/dh-dashboard](https://github.com/DaanGamesDG/dh-dashboard)
+4. ❌ Closed PR [#101](https://github.com/DaanGamesDG/PaperPlane/pull/101) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+5. 🎉 Merged PR [#99](https://github.com/DaanGamesDG/PaperPlane/pull/99) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
 <!--END_SECTION:activity-->
 
 
