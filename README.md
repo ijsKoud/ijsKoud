@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/DaanGamesDG/website/pull/10) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
-2. 🎉 Merged PR [#9](https://github.com/DaanGamesDG/website/pull/9) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
-3. 💪 Opened PR [#9](https://github.com/DaanGamesDG/website/pull/9) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
-4. 🎉 Merged PR [#93](https://github.com/DaanGamesDG/PaperPlane/pull/93) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-5. 🎉 Merged PR [#105](https://github.com/DaanGamesDG/PaperPlane/pull/105) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+1. 💪 Opened PR [#11](https://github.com/DaanGamesDG/website/pull/11) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
+2. 🎉 Merged PR [#10](https://github.com/DaanGamesDG/website/pull/10) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
+3. 💪 Opened PR [#10](https://github.com/DaanGamesDG/website/pull/10) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
+4. 🎉 Merged PR [#9](https://github.com/DaanGamesDG/website/pull/9) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
+5. 💪 Opened PR [#9](https://github.com/DaanGamesDG/website/pull/9) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
 <!--END_SECTION:activity-->
 
 
