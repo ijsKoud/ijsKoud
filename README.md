@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/DaanGamesDG/bot-template/pull/101) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
-2. 🎉 Merged PR [#29](https://github.com/DaanGamesDG/youtube-notifications/pull/29) in [DaanGamesDG/youtube-notifications](https://github.com/DaanGamesDG/youtube-notifications)
-3. 🎉 Merged PR [#24](https://github.com/DaanGamesDG/nextjs-template/pull/24) in [DaanGamesDG/nextjs-template](https://github.com/DaanGamesDG/nextjs-template)
-4. 🎉 Merged PR [#120](https://github.com/DaanGamesDG/PaperPlane/pull/120) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-5. 🎉 Merged PR [#121](https://github.com/DaanGamesDG/PaperPlane/pull/121) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+1. 🗣 Commented on [#79](https://github.com/DaanGamesDG/PaperPlane/issues/79) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+2. 🗣 Commented on [#80](https://github.com/DaanGamesDG/PaperPlane/issues/80) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+3. 🎉 Merged PR [#101](https://github.com/DaanGamesDG/bot-template/pull/101) in [DaanGamesDG/bot-template](https://github.com/DaanGamesDG/bot-template)
+4. 🎉 Merged PR [#29](https://github.com/DaanGamesDG/youtube-notifications/pull/29) in [DaanGamesDG/youtube-notifications](https://github.com/DaanGamesDG/youtube-notifications)
+5. 🎉 Merged PR [#24](https://github.com/DaanGamesDG/nextjs-template/pull/24) in [DaanGamesDG/nextjs-template](https://github.com/DaanGamesDG/nextjs-template)
 <!--END_SECTION:activity-->
 
 
