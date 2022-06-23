@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#127](https://github.com/DaanGamesDG/PaperPlane/pull/127) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-2. 💪 Opened PR [#127](https://github.com/DaanGamesDG/PaperPlane/pull/127) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
-3. 🎉 Merged PR [#26](https://github.com/DaanGamesDG/website/pull/26) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
-4. 💪 Opened PR [#26](https://github.com/DaanGamesDG/website/pull/26) in [DaanGamesDG/website](https://github.com/DaanGamesDG/website)
-5. ❗️ Closed issue [#126](https://github.com/DaanGamesDG/PaperPlane/issues/126) in [DaanGamesDG/PaperPlane](https://github.com/DaanGamesDG/PaperPlane)
+1. 🎉 Merged PR [#131](https://github.com/ijsKoud/PaperPlane/pull/131) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+2. 🎉 Merged PR [#132](https://github.com/ijsKoud/PaperPlane/pull/132) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+3. ❗️ Opened issue [#130](https://github.com/ijsKoud/PaperPlane/issues/130) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+4. ❗️ Opened issue [#129](https://github.com/ijsKoud/PaperPlane/issues/129) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+5. 🎉 Merged PR [#128](https://github.com/ijsKoud/PaperPlane/pull/128) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 <!--END_SECTION:activity-->
 
 
