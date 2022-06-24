@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#134](https://github.com/ijsKoud/PaperPlane/pull/134) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 🎉 Merged PR [#133](https://github.com/ijsKoud/PaperPlane/pull/133) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-3. ❗️ Closed issue [#130](https://github.com/ijsKoud/PaperPlane/issues/130) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-4. 💪 Opened PR [#133](https://github.com/ijsKoud/PaperPlane/pull/133) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-5. 🎉 Merged PR [#131](https://github.com/ijsKoud/PaperPlane/pull/131) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+1. 🎉 Merged PR [#134](https://github.com/ijsKoud/PaperPlane/pull/134) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+2. ❗️ Closed issue [#80](https://github.com/ijsKoud/PaperPlane/issues/80) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+3. 💪 Opened PR [#134](https://github.com/ijsKoud/PaperPlane/pull/134) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+4. 🎉 Merged PR [#133](https://github.com/ijsKoud/PaperPlane/pull/133) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+5. ❗️ Closed issue [#130](https://github.com/ijsKoud/PaperPlane/issues/130) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 <!--END_SECTION:activity-->
 
 
