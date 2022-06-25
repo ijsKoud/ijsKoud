@@ -1,9 +1,34 @@
 {
-  "labels": [
-    {
-      "name": "t3st",
-      "description": "test",
-      "colour": "#F94144"
-    }
-  ]
+	"labels": [
+		{
+			"name": "Bug",
+			"description": "A bug or security issue",
+			"colour": "#F94144"
+		},
+		{
+			"name": "Question",
+			"description": "Further information is requested",
+			"colour": "#F3722C"
+		},
+		{
+			"name": "Duplicate",
+			"description": "A duplicate pull request or issue",
+			"colour": "#F9C74F"
+		},
+		{
+			"name": "Request",
+			"description": "A requested feature",
+			"colour": "#90BE6D"
+		},
+		{
+			"name": "Dependencies",
+			"description": "Adding/removing dependencies or bumping them",
+			"colour": "#43AA8B"
+		},
+		{
+			"name": "Documentation",
+			"description": "Improvements or additions to documentation",
+			"colour": "#277DA1"
+		}
+	]
 }
