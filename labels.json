@@ -17,7 +17,7 @@
 		},
 		{
 			"name": "Request",
-			"description": "Requested feature/features",
+			"description": "Requested feature(s)",
 			"color": "#90BE6D"
 		},
 		{
