@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#146](https://github.com/ijsKoud/PaperPlane/pull/146) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 💪 Opened PR [#146](https://github.com/ijsKoud/PaperPlane/pull/146) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-3. 🎉 Merged PR [#145](https://github.com/ijsKoud/PaperPlane/pull/145) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-4. 💪 Opened PR [#145](https://github.com/ijsKoud/PaperPlane/pull/145) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-5. 💪 Opened PR [#44](https://github.com/JobGamesJG/jobgamesjg.xyz/pull/44) in [JobGamesJG/jobgamesjg.xyz](https://github.com/JobGamesJG/jobgamesjg.xyz)
+1. 💪 Opened PR [#147](https://github.com/ijsKoud/PaperPlane/pull/147) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+2. 🎉 Merged PR [#146](https://github.com/ijsKoud/PaperPlane/pull/146) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+3. 💪 Opened PR [#146](https://github.com/ijsKoud/PaperPlane/pull/146) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+4. 🎉 Merged PR [#145](https://github.com/ijsKoud/PaperPlane/pull/145) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+5. 💪 Opened PR [#145](https://github.com/ijsKoud/PaperPlane/pull/145) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 <!--END_SECTION:activity-->
 
 
