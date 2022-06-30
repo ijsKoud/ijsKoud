@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#148](https://github.com/ijsKoud/PaperPlane/pull/148) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. ❗️ Closed issue [#129](https://github.com/ijsKoud/PaperPlane/issues/129) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-3. 🗣 Commented on [#125](https://github.com/ijsKoud/PaperPlane/issues/125) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-4. 💪 Opened PR [#148](https://github.com/ijsKoud/PaperPlane/pull/148) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-5. 🗣 Commented on [#52](https://github.com/JobGamesJG/jobgamesjg.xyz/issues/52) in [JobGamesJG/jobgamesjg.xyz](https://github.com/JobGamesJG/jobgamesjg.xyz)
+1. ❌ Closed PR [#96](https://github.com/ijsKoud/dh-assistant/pull/96) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
+2. 🗣 Commented on [#96](https://github.com/ijsKoud/dh-assistant/issues/96) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
+3. ❌ Reopened PR [#96](https://github.com/ijsKoud/dh-assistant/pull/96) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
+4. 🎉 Merged PR [#148](https://github.com/ijsKoud/PaperPlane/pull/148) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+5. ❗️ Closed issue [#129](https://github.com/ijsKoud/PaperPlane/issues/129) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 <!--END_SECTION:activity-->
 
 
