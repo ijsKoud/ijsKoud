@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/ijsKoud/PaperPlane/issues/125) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 💪 Opened PR [#149](https://github.com/ijsKoud/PaperPlane/pull/149) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-3. ❌ Closed PR [#96](https://github.com/ijsKoud/dh-assistant/pull/96) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
-4. 🗣 Commented on [#96](https://github.com/ijsKoud/dh-assistant/issues/96) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
-5. ❌ Reopened PR [#96](https://github.com/ijsKoud/dh-assistant/pull/96) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
+1. 🎉 Merged PR [#150](https://github.com/ijsKoud/PaperPlane/pull/150) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+2. 💪 Opened PR [#150](https://github.com/ijsKoud/PaperPlane/pull/150) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+3. 🎉 Merged PR [#149](https://github.com/ijsKoud/PaperPlane/pull/149) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+4. 🗣 Commented on [#125](https://github.com/ijsKoud/PaperPlane/issues/125) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+5. 💪 Opened PR [#149](https://github.com/ijsKoud/PaperPlane/pull/149) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 <!--END_SECTION:activity-->
 
 
