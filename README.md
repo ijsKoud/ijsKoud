@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#79](https://github.com/ijsKoud/PaperPlane/issues/79) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 🗣 Commented on [#79](https://github.com/ijsKoud/PaperPlane/issues/79) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-3. 🎉 Merged PR [#10](https://github.com/ijsKoud/PaperPlane-docs/pull/10) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
-4. 💪 Opened PR [#10](https://github.com/ijsKoud/PaperPlane-docs/pull/10) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
-5. 🎉 Merged PR [#151](https://github.com/ijsKoud/PaperPlane/pull/151) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+1. 🎉 Merged PR [#11](https://github.com/ijsKoud/PaperPlane-docs/pull/11) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
+2. ❗️ Closed issue [#79](https://github.com/ijsKoud/PaperPlane/issues/79) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+3. 🗣 Commented on [#79](https://github.com/ijsKoud/PaperPlane/issues/79) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+4. 🎉 Merged PR [#10](https://github.com/ijsKoud/PaperPlane-docs/pull/10) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
+5. 💪 Opened PR [#10](https://github.com/ijsKoud/PaperPlane-docs/pull/10) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
 <!--END_SECTION:activity-->
 
 
