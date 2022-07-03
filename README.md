@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/ijsKoud/PaperPlane/issues/153) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 💪 Opened PR [#153](https://github.com/ijsKoud/PaperPlane/pull/153) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-3. ❗️ Opened issue [#152](https://github.com/ijsKoud/PaperPlane/issues/152) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-4. 🎉 Merged PR [#11](https://github.com/ijsKoud/PaperPlane-docs/pull/11) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
-5. ❗️ Closed issue [#79](https://github.com/ijsKoud/PaperPlane/issues/79) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+1. 🎉 Merged PR [#13](https://github.com/ijsKoud/ijsblokje/pull/13) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+2. 🎉 Merged PR [#14](https://github.com/ijsKoud/ijsblokje/pull/14) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+3. 🎉 Merged PR [#55](https://github.com/JobGamesJG/jobgamesjg.xyz/pull/55) in [JobGamesJG/jobgamesjg.xyz](https://github.com/JobGamesJG/jobgamesjg.xyz)
+4. 🎉 Merged PR [#20](https://github.com/stereo-bot/github-bot/pull/20) in [stereo-bot/github-bot](https://github.com/stereo-bot/github-bot)
+5. 🎉 Merged PR [#29](https://github.com/ijsKoud/website/pull/29) in [ijsKoud/website](https://github.com/ijsKoud/website)
 <!--END_SECTION:activity-->
 
 
