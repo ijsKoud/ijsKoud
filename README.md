@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#155](https://github.com/ijsKoud/PaperPlane/pull/155) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 🎉 Merged PR [#30](https://github.com/ijsKoud/youtube-notifications/pull/30) in [ijsKoud/youtube-notifications](https://github.com/ijsKoud/youtube-notifications)
-3. 🎉 Merged PR [#26](https://github.com/ijsKoud/nextjs-template/pull/26) in [ijsKoud/nextjs-template](https://github.com/ijsKoud/nextjs-template)
-4. 🎉 Merged PR [#154](https://github.com/ijsKoud/PaperPlane/pull/154) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-5. 🎉 Merged PR [#103](https://github.com/ijsKoud/bot-template/pull/103) in [ijsKoud/bot-template](https://github.com/ijsKoud/bot-template)
+1. 🗣 Commented on [#153](https://github.com/ijsKoud/PaperPlane/issues/153) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+2. 🎉 Merged PR [#155](https://github.com/ijsKoud/PaperPlane/pull/155) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+3. 🎉 Merged PR [#30](https://github.com/ijsKoud/youtube-notifications/pull/30) in [ijsKoud/youtube-notifications](https://github.com/ijsKoud/youtube-notifications)
+4. 🎉 Merged PR [#26](https://github.com/ijsKoud/nextjs-template/pull/26) in [ijsKoud/nextjs-template](https://github.com/ijsKoud/nextjs-template)
+5. 🎉 Merged PR [#154](https://github.com/ijsKoud/PaperPlane/pull/154) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 <!--END_SECTION:activity-->
 
 
