@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/ijsKoud/ijsblokje/pull/21) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-2. 🎉 Merged PR [#20](https://github.com/ijsKoud/ijsblokje/pull/20) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-3. 🎉 Merged PR [#18](https://github.com/ijsKoud/ijsblokje/pull/18) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-4. 🎉 Merged PR [#19](https://github.com/ijsKoud/ijsblokje/pull/19) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-5. 🎉 Merged PR [#17](https://github.com/ijsKoud/ijsblokje/pull/17) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+1. 🎉 Merged PR [#21](https://github.com/ijsKoud/ijsblokje/pull/21) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+2. 💪 Opened PR [#21](https://github.com/ijsKoud/ijsblokje/pull/21) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+3. 🎉 Merged PR [#20](https://github.com/ijsKoud/ijsblokje/pull/20) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+4. 🎉 Merged PR [#18](https://github.com/ijsKoud/ijsblokje/pull/18) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+5. 🎉 Merged PR [#19](https://github.com/ijsKoud/ijsblokje/pull/19) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
 <!--END_SECTION:activity-->
 
 
