@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#163](https://github.com/ijsKoud/PaperPlane/pull/163) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 💪 Opened PR [#163](https://github.com/ijsKoud/PaperPlane/pull/163) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-3. 🎉 Merged PR [#21](https://github.com/ijsKoud/ijsblokje/pull/21) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-4. 💪 Opened PR [#21](https://github.com/ijsKoud/ijsblokje/pull/21) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-5. 🎉 Merged PR [#20](https://github.com/ijsKoud/ijsblokje/pull/20) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+1. 🎉 Merged PR [#120](https://github.com/ijsKoud/dh-assistant/pull/120) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
+2. 🎉 Merged PR [#32](https://github.com/ijsKoud/website/pull/32) in [ijsKoud/website](https://github.com/ijsKoud/website)
+3. 🎉 Merged PR [#33](https://github.com/ijsKoud/website/pull/33) in [ijsKoud/website](https://github.com/ijsKoud/website)
+4. 🎉 Merged PR [#77](https://github.com/ijsKoud/dh-dashboard/pull/77) in [ijsKoud/dh-dashboard](https://github.com/ijsKoud/dh-dashboard)
+5. 🎉 Merged PR [#78](https://github.com/ijsKoud/dh-dashboard/pull/78) in [ijsKoud/dh-dashboard](https://github.com/ijsKoud/dh-dashboard)
 <!--END_SECTION:activity-->
 
 
