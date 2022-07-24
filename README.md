@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/stereo-bot/website/pull/36) in [stereo-bot/website](https://github.com/stereo-bot/website)
-2. 🎉 Merged PR [#120](https://github.com/ijsKoud/dh-assistant/pull/120) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
-3. 🎉 Merged PR [#32](https://github.com/ijsKoud/website/pull/32) in [ijsKoud/website](https://github.com/ijsKoud/website)
-4. 🎉 Merged PR [#33](https://github.com/ijsKoud/website/pull/33) in [ijsKoud/website](https://github.com/ijsKoud/website)
-5. 🎉 Merged PR [#77](https://github.com/ijsKoud/dh-dashboard/pull/77) in [ijsKoud/dh-dashboard](https://github.com/ijsKoud/dh-dashboard)
+1. 🎉 Merged PR [#122](https://github.com/ijsKoud/dh-assistant/pull/122) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
+2. 🎉 Merged PR [#34](https://github.com/ijsKoud/website/pull/34) in [ijsKoud/website](https://github.com/ijsKoud/website)
+3. 🎉 Merged PR [#79](https://github.com/ijsKoud/dh-dashboard/pull/79) in [ijsKoud/dh-dashboard](https://github.com/ijsKoud/dh-dashboard)
+4. 🎉 Merged PR [#24](https://github.com/ijsKoud/ijsblokje/pull/24) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+5. 🎉 Merged PR [#23](https://github.com/ijsKoud/ijsblokje/pull/23) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
 <!--END_SECTION:activity-->
 
 
