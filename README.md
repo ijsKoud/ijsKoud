@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#124](https://github.com/ijsKoud/dh-assistant/pull/124) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
-2. 🎉 Merged PR [#45](https://github.com/stereo-bot/spyro/pull/45) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
-3. 🎉 Merged PR [#25](https://github.com/ijsKoud/ijsblokje/pull/25) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-4. 🎉 Merged PR [#169](https://github.com/ijsKoud/PaperPlane/pull/169) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-5. 🎉 Merged PR [#35](https://github.com/ijsKoud/website/pull/35) in [ijsKoud/website](https://github.com/ijsKoud/website)
+1. 💪 Opened PR [#3](https://github.com/JobGamesJG/website/pull/3) in [JobGamesJG/website](https://github.com/JobGamesJG/website)
+2. 🎉 Merged PR [#124](https://github.com/ijsKoud/dh-assistant/pull/124) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
+3. 🎉 Merged PR [#45](https://github.com/stereo-bot/spyro/pull/45) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+4. 🎉 Merged PR [#25](https://github.com/ijsKoud/ijsblokje/pull/25) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+5. 🎉 Merged PR [#169](https://github.com/ijsKoud/PaperPlane/pull/169) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 <!--END_SECTION:activity-->
 
 
