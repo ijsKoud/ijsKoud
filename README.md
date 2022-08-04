@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#171](https://github.com/ijsKoud/PaperPlane/pull/171) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 💪 Opened PR [#171](https://github.com/ijsKoud/PaperPlane/pull/171) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-3. 💪 Opened PR [#3](https://github.com/JobGamesJG/website/pull/3) in [JobGamesJG/website](https://github.com/JobGamesJG/website)
-4. 🎉 Merged PR [#124](https://github.com/ijsKoud/dh-assistant/pull/124) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
-5. 🎉 Merged PR [#45](https://github.com/stereo-bot/spyro/pull/45) in [stereo-bot/spyro](https://github.com/stereo-bot/spyro)
+1. 🎉 Merged PR [#36](https://github.com/ijsKoud/website/pull/36) in [ijsKoud/website](https://github.com/ijsKoud/website)
+2. 🎉 Merged PR [#171](https://github.com/ijsKoud/PaperPlane/pull/171) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+3. 💪 Opened PR [#171](https://github.com/ijsKoud/PaperPlane/pull/171) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+4. 💪 Opened PR [#3](https://github.com/JobGamesJG/website/pull/3) in [JobGamesJG/website](https://github.com/JobGamesJG/website)
+5. 🎉 Merged PR [#124](https://github.com/ijsKoud/dh-assistant/pull/124) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
 <!--END_SECTION:activity-->
 
 
