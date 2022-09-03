@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/ijsKoud/youtube-notifications/pull/34) in [ijsKoud/youtube-notifications](https://github.com/ijsKoud/youtube-notifications)
-2. 🎉 Merged PR [#17](https://github.com/ijsKoud/PaperPlane-docs/pull/17) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
-3. 🎉 Merged PR [#73](https://github.com/ijsKoud/project-template/pull/73) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
-4. 🎉 Merged PR [#133](https://github.com/ijsKoud/dh-assistant/pull/133) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
-5. 🎉 Merged PR [#42](https://github.com/ijsKoud/website/pull/42) in [ijsKoud/website](https://github.com/ijsKoud/website)
+1. 🎉 Merged PR [#38](https://github.com/ijsKoud/website/pull/38) in [ijsKoud/website](https://github.com/ijsKoud/website)
+2. 🎉 Merged PR [#34](https://github.com/ijsKoud/youtube-notifications/pull/34) in [ijsKoud/youtube-notifications](https://github.com/ijsKoud/youtube-notifications)
+3. 🎉 Merged PR [#17](https://github.com/ijsKoud/PaperPlane-docs/pull/17) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
+4. 🎉 Merged PR [#73](https://github.com/ijsKoud/project-template/pull/73) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
+5. 🎉 Merged PR [#133](https://github.com/ijsKoud/dh-assistant/pull/133) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
 <!--END_SECTION:activity-->
 
 
