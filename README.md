@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#45](https://github.com/ijsKoud/website/pull/45) in [ijsKoud/website](https://github.com/ijsKoud/website)
-2. 🎉 Merged PR [#44](https://github.com/ijsKoud/website/pull/44) in [ijsKoud/website](https://github.com/ijsKoud/website)
-3. 🎉 Merged PR [#135](https://github.com/ijsKoud/dh-assistant/pull/135) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
-4. 🎉 Merged PR [#74](https://github.com/ijsKoud/project-template/pull/74) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
-5. 🎉 Merged PR [#116](https://github.com/ijsKoud/bot-template/pull/116) in [ijsKoud/bot-template](https://github.com/ijsKoud/bot-template)
+1. 🎉 Merged PR [#33](https://github.com/ijsKoud/ijsblokje/pull/33) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+2. 🎉 Merged PR [#34](https://github.com/ijsKoud/ijsblokje/pull/34) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+3. ❌ Closed PR [#45](https://github.com/ijsKoud/website/pull/45) in [ijsKoud/website](https://github.com/ijsKoud/website)
+4. 🎉 Merged PR [#44](https://github.com/ijsKoud/website/pull/44) in [ijsKoud/website](https://github.com/ijsKoud/website)
+5. 🎉 Merged PR [#135](https://github.com/ijsKoud/dh-assistant/pull/135) in [ijsKoud/dh-assistant](https://github.com/ijsKoud/dh-assistant)
 <!--END_SECTION:activity-->
 
 
