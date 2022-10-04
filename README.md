@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ijsKoud/pentagon/pull/4) in [ijsKoud/pentagon](https://github.com/ijsKoud/pentagon)
-2. 💪 Opened PR [#4](https://github.com/ijsKoud/pentagon/pull/4) in [ijsKoud/pentagon](https://github.com/ijsKoud/pentagon)
-3. 🎉 Merged PR [#2](https://github.com/ijsKoud/pentagon/pull/2) in [ijsKoud/pentagon](https://github.com/ijsKoud/pentagon)
-4. 🎉 Merged PR [#35](https://github.com/ijsKoud/ijsblokje/pull/35) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-5. 🎉 Merged PR [#76](https://github.com/ijsKoud/project-template/pull/76) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
+1. 🎉 Merged PR [#5](https://github.com/ijsKoud/pentagon/pull/5) in [ijsKoud/pentagon](https://github.com/ijsKoud/pentagon)
+2. 💪 Opened PR [#5](https://github.com/ijsKoud/pentagon/pull/5) in [ijsKoud/pentagon](https://github.com/ijsKoud/pentagon)
+3. 🎉 Merged PR [#4](https://github.com/ijsKoud/pentagon/pull/4) in [ijsKoud/pentagon](https://github.com/ijsKoud/pentagon)
+4. 💪 Opened PR [#4](https://github.com/ijsKoud/pentagon/pull/4) in [ijsKoud/pentagon](https://github.com/ijsKoud/pentagon)
+5. 🎉 Merged PR [#2](https://github.com/ijsKoud/pentagon/pull/2) in [ijsKoud/pentagon](https://github.com/ijsKoud/pentagon)
 <!--END_SECTION:activity-->
 
 
