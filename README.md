@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/ijsKoud/project-template/pull/78) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
-2. 🎉 Merged PR [#79](https://github.com/ijsKoud/project-template/pull/79) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
-3. 🎉 Merged PR [#52](https://github.com/ijsKoud/website/pull/52) in [ijsKoud/website](https://github.com/ijsKoud/website)
-4. 🎉 Merged PR [#53](https://github.com/ijsKoud/website/pull/53) in [ijsKoud/website](https://github.com/ijsKoud/website)
-5. 🎉 Merged PR [#41](https://github.com/ijsKoud/ijsblokje/pull/41) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+1. 🎉 Merged PR [#58](https://github.com/ijsKoud/website/pull/58) in [ijsKoud/website](https://github.com/ijsKoud/website)
+2. 💪 Opened PR [#58](https://github.com/ijsKoud/website/pull/58) in [ijsKoud/website](https://github.com/ijsKoud/website)
+3. 🎉 Merged PR [#78](https://github.com/ijsKoud/project-template/pull/78) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
+4. 🎉 Merged PR [#79](https://github.com/ijsKoud/project-template/pull/79) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
+5. 🎉 Merged PR [#52](https://github.com/ijsKoud/website/pull/52) in [ijsKoud/website](https://github.com/ijsKoud/website)
 <!--END_SECTION:activity-->
 
 
