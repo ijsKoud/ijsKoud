@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/ijsKoud/website/pull/65) in [ijsKoud/website](https://github.com/ijsKoud/website)
-2. 💪 Opened PR [#65](https://github.com/ijsKoud/website/pull/65) in [ijsKoud/website](https://github.com/ijsKoud/website)
-3. 🎉 Merged PR [#64](https://github.com/ijsKoud/website/pull/64) in [ijsKoud/website](https://github.com/ijsKoud/website)
-4. 💪 Opened PR [#64](https://github.com/ijsKoud/website/pull/64) in [ijsKoud/website](https://github.com/ijsKoud/website)
-5. 🎉 Merged PR [#21](https://github.com/ijsKoud/PaperPlane-docs/pull/21) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
+1. 💪 Opened PR [#66](https://github.com/ijsKoud/website/pull/66) in [ijsKoud/website](https://github.com/ijsKoud/website)
+2. 🎉 Merged PR [#65](https://github.com/ijsKoud/website/pull/65) in [ijsKoud/website](https://github.com/ijsKoud/website)
+3. 💪 Opened PR [#65](https://github.com/ijsKoud/website/pull/65) in [ijsKoud/website](https://github.com/ijsKoud/website)
+4. 🎉 Merged PR [#64](https://github.com/ijsKoud/website/pull/64) in [ijsKoud/website](https://github.com/ijsKoud/website)
+5. 💪 Opened PR [#64](https://github.com/ijsKoud/website/pull/64) in [ijsKoud/website](https://github.com/ijsKoud/website)
 <!--END_SECTION:activity-->
 
 
