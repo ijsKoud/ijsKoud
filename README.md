@@ -48,11 +48,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ijsKoud/api/pull/2) in [ijsKoud/api](https://github.com/ijsKoud/api)
-2. 🎉 Merged PR [#4](https://github.com/ijsKoud/api/pull/4) in [ijsKoud/api](https://github.com/ijsKoud/api)
-3. 💪 Opened PR [#4](https://github.com/ijsKoud/api/pull/4) in [ijsKoud/api](https://github.com/ijsKoud/api)
-4. 🎉 Merged PR [#3](https://github.com/ijsKoud/api/pull/3) in [ijsKoud/api](https://github.com/ijsKoud/api)
-5. 💪 Opened PR [#3](https://github.com/ijsKoud/api/pull/3) in [ijsKoud/api](https://github.com/ijsKoud/api)
+1. 🎉 Merged PR [#202](https://github.com/ijsKoud/PaperPlane/pull/202) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+2. 🎉 Merged PR [#20](https://github.com/ijsKoud/pentagon/pull/20) in [ijsKoud/pentagon](https://github.com/ijsKoud/pentagon)
+3. 🎉 Merged PR [#41](https://github.com/ijsKoud/nextjs-template/pull/41) in [ijsKoud/nextjs-template](https://github.com/ijsKoud/nextjs-template)
+4. 🎉 Merged PR [#2](https://github.com/ijsKoud/api/pull/2) in [ijsKoud/api](https://github.com/ijsKoud/api)
+5. 🎉 Merged PR [#4](https://github.com/ijsKoud/api/pull/4) in [ijsKoud/api](https://github.com/ijsKoud/api)
 <!--END_SECTION:activity-->
 
 
