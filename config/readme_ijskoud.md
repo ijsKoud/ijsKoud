@@ -32,7 +32,7 @@
 
 -   Website: https://ijskoud.dev/
 -   Email: <hi@ijskoud.dev>
--   Twitter: [@ijsKoud](https://twitter.com/ijs_Koud)
+-   Twitter: [@ijsKoud](https://ijskoud.dev/twitter)
 -   Github: [@ijsKoud](https://github.com/ijsKoud)
 
 ## Donate
