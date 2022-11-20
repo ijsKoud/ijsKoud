@@ -1,0 +1,35 @@
+{
+	"labels": [
+		{
+			"name": "Bug",
+			"description": "A bug or security issue",
+			"color": "#F94144"
+		},
+		{
+			"name": "Question",
+			"description": "Support or more information is requested",
+			"color": "#F3722C"
+		},
+		{
+			"name": "Duplicate",
+			"description": "A duplicate pull request or issue",
+			"color": "#F9C74F"
+		},
+		{
+			"name": "Request",
+			"description": "Requested feature(s)",
+			"color": "#90BE6D"
+		},
+		{
+			"name": "Dependencies",
+			"description": "Adding/removing dependencies or bumping them",
+			"color": "#43AA8B"
+		},
+		{
+			"name": "Documentation",
+			"description": "Improvements or additions to the documentation",
+			"color": "#277DA1"
+		}
+	],
+  "repository": {}
+}
