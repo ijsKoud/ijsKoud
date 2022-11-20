@@ -1,7 +1,7 @@
 {
 	"labels": [
 		{
-			"name": "Bug",
+			"name": "Bug 🐛",
 			"description": "A bug or security issue",
 			"color": "#F94144"
 		},
@@ -17,7 +17,7 @@
 		},
 		{
 			"name": "Feature",
-			"description": "Requested feature(s)",
+			"description": "Issue or PR with requested features",
 			"color": "#90BE6D"
 		},
 		{
