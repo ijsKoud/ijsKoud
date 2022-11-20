@@ -26,6 +26,8 @@
 
 {project.installation}
 
+{project.extra_info}
+
 ## Author
 
 👤 **ijsKoud**
