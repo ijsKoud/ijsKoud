@@ -6,7 +6,7 @@
 			"color": "#F94144"
 		},
 		{
-			"name": "Question",
+			"name": "Question ❓",
 			"description": "Support or more information is requested",
 			"color": "#F3722C"
 		},
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Dependencies",
-			"description": "Dependency bumping to keep all of them up-to-date",
+			"description": "PRs and Issues related to dependencies",
 			"color": "#43AA8B"
 		},
 		{
