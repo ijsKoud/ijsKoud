@@ -17,7 +17,7 @@
 		},
 		{
 			"name": "Feature",
-			"description": "Issue or PR with requested features",
+			"description": "PRs and Issues related to existing/requested features",
 			"color": "#90BE6D"
 		},
 		{
