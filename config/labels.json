@@ -8,26 +8,61 @@
 		{
 			"name": "Question ❓",
 			"description": "Support or more information is requested",
-			"color": "#F3722C"
+			"color": "#f3722c"
 		},
 		{
-			"name": "Duplicate",
+			"name": "Duplicate ©️",
 			"description": "A duplicate pull request or issue",
-			"color": "#F9C74F"
+			"color": "#f8961e"
 		},
 		{
-			"name": "Feature",
+			"name": "Feature 🎉",
 			"description": "PRs and Issues related to existing/requested features",
-			"color": "#90BE6D"
+			"color": "#43aa8b"
 		},
 		{
-			"name": "Dependencies",
+			"name": "Dependencies 🚀",
 			"description": "PRs and Issues related to dependencies",
-			"color": "#43AA8B"
+			"color": "#277da1"
 		},
 		{
-			"name": "Documentation",
+			"name": "Documentation 🗞️",
 			"description": "Improvements or additions to the documentation",
+			"color": "#277da1"
+		},
+		{
+			"name": "Chore 🧹",
+			"description": "",
+			"color": "#277da1"
+		},
+		{
+			"name": "Fix ❗",
+			"description": "",
+			"color": "#277DA1"
+		},
+		{
+			"name": "Refactor 📏",
+			"description": "",
+			"color": "#277DA1"
+		},
+		{
+			"name": "Build 🏗️",
+			"description": "",
+			"color": "#277DA1"
+		},
+		{
+			"name": "Test 🧪",
+			"description": "",
+			"color": "#277DA1"
+		},
+		{
+			"name": "Ci 🥽",
+			"description": "",
+			"color": "#277DA1"
+		},
+		{
+			"name": "Revert ⬅️",
+			"description": "",
 			"color": "#277DA1"
 		}
 	],
