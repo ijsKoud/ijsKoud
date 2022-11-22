@@ -27,11 +27,6 @@ interface Experience {
 <img align="right" src="http://gh-stats.ijskoud.dev/api? username=ijsKoud&cache_seconds=1800&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/ijsKoud/ijsblokje/pull/59) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-2. 💪 Opened PR [#59](https://github.com/ijsKoud/ijsblokje/pull/59) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-3. 🎉 Merged PR [#74](https://github.com/ijsKoud/website/pull/74) in [ijsKoud/website](https://github.com/ijsKoud/website)
-4. 🎉 Merged PR [#75](https://github.com/ijsKoud/website/pull/75) in [ijsKoud/website](https://github.com/ijsKoud/website)
-5. 🎉 Merged PR [#84](https://github.com/ijsKoud/project-template/pull/84) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
