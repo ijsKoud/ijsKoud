@@ -28,15 +28,15 @@ interface Experience {
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/snowcrystals/icicle/issues/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-2. 💪 Opened PR [#4](https://github.com/snowcrystals/icicle/pull/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-3. ❌ Closed PR [#3](https://github.com/snowcrystals/icicle/pull/3) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-4. 🗣 Commented on [#3](https://github.com/snowcrystals/icicle/issues/3) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-5. 🗣 Commented on [#3](https://github.com/snowcrystals/icicle/issues/3) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-6. 🗣 Commented on [#3](https://github.com/snowcrystals/icicle/issues/3) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+2. 🎉 Merged PR [#66](https://github.com/ijsKoud/ijsblokje/pull/66) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+3. 🗣 Commented on [#4](https://github.com/snowcrystals/icicle/issues/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+4. 🗣 Commented on [#4](https://github.com/snowcrystals/icicle/issues/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+5. 💪 Opened PR [#4](https://github.com/snowcrystals/icicle/pull/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+6. ❌ Closed PR [#3](https://github.com/snowcrystals/icicle/pull/3) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
 7. 🗣 Commented on [#3](https://github.com/snowcrystals/icicle/issues/3) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-8. 💪 Opened PR [#3](https://github.com/snowcrystals/icicle/pull/3) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-9. 🎉 Merged PR [#2](https://github.com/snowcrystals/icicle/pull/2) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-10. 🗣 Commented on [#2](https://github.com/snowcrystals/icicle/issues/2) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+8. 🗣 Commented on [#3](https://github.com/snowcrystals/icicle/issues/3) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+9. 🗣 Commented on [#3](https://github.com/snowcrystals/icicle/issues/3) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+10. 🗣 Commented on [#3](https://github.com/snowcrystals/icicle/issues/3) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
