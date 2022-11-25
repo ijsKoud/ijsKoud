@@ -27,16 +27,16 @@ interface Experience {
 <img align="right" src="http://gh-stats.ijskoud.dev/api? username=ijsKoud&cache_seconds=1800&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/snowcrystals/icicle/pull/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-2. 🗣 Commented on [#4](https://github.com/snowcrystals/icicle/issues/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-3. 🗣 Commented on [#4](https://github.com/snowcrystals/icicle/issues/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-4. 🗣 Commented on [#4](https://github.com/snowcrystals/icicle/issues/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-5. 🗣 Commented on [#4](https://github.com/snowcrystals/icicle/issues/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-6. 🎉 Merged PR [#66](https://github.com/ijsKoud/ijsblokje/pull/66) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+1. ❗️ Opened issue [#85](https://github.com/ijsKoud/project-template/issues/85) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
+2. ❗️ Opened issue [#76](https://github.com/ijsKoud/website/issues/76) in [ijsKoud/website](https://github.com/ijsKoud/website)
+3. ❗️ Opened issue [#6](https://github.com/ijsKoud/api/issues/6) in [ijsKoud/api](https://github.com/ijsKoud/api)
+4. ❗️ Opened issue [#67](https://github.com/ijsKoud/ijsblokje/issues/67) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+5. 🎉 Merged PR [#4](https://github.com/snowcrystals/icicle/pull/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+6. 🗣 Commented on [#4](https://github.com/snowcrystals/icicle/issues/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
 7. 🗣 Commented on [#4](https://github.com/snowcrystals/icicle/issues/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
 8. 🗣 Commented on [#4](https://github.com/snowcrystals/icicle/issues/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-9. 💪 Opened PR [#4](https://github.com/snowcrystals/icicle/pull/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-10. ❌ Closed PR [#3](https://github.com/snowcrystals/icicle/pull/3) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+9. 🗣 Commented on [#4](https://github.com/snowcrystals/icicle/issues/4) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+10. 🎉 Merged PR [#66](https://github.com/ijsKoud/ijsblokje/pull/66) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
