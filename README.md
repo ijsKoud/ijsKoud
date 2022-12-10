@@ -27,16 +27,16 @@ interface Experience {
 <img align="right" src="http://gh-stats.ijskoud.dev/api? username=ijsKoud&cache_seconds=1800&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/ijsKoud/adventofcode/pull/6) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
-2. 💪 Opened PR [#6](https://github.com/ijsKoud/adventofcode/pull/6) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
-3. 🎉 Merged PR [#5](https://github.com/ijsKoud/adventofcode/pull/5) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
-4. 💪 Opened PR [#5](https://github.com/ijsKoud/adventofcode/pull/5) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
-5. 🎉 Merged PR [#4](https://github.com/ijsKoud/adventofcode/pull/4) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
-6. 💪 Opened PR [#4](https://github.com/ijsKoud/adventofcode/pull/4) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
-7. 🎉 Merged PR [#3](https://github.com/ijsKoud/adventofcode/pull/3) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
-8. 💪 Opened PR [#3](https://github.com/ijsKoud/adventofcode/pull/3) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
-9. 🎉 Merged PR [#2](https://github.com/ijsKoud/adventofcode/pull/2) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
-10. 🎉 Merged PR [#5](https://github.com/snowcrystals/iglo/pull/5) in [snowcrystals/iglo](https://github.com/snowcrystals/iglo)
+1. 💪 Opened PR [#7](https://github.com/ijsKoud/adventofcode/pull/7) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
+2. 🎉 Merged PR [#6](https://github.com/ijsKoud/adventofcode/pull/6) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
+3. 💪 Opened PR [#6](https://github.com/ijsKoud/adventofcode/pull/6) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
+4. 🎉 Merged PR [#5](https://github.com/ijsKoud/adventofcode/pull/5) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
+5. 💪 Opened PR [#5](https://github.com/ijsKoud/adventofcode/pull/5) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
+6. 🎉 Merged PR [#4](https://github.com/ijsKoud/adventofcode/pull/4) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
+7. 💪 Opened PR [#4](https://github.com/ijsKoud/adventofcode/pull/4) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
+8. 🎉 Merged PR [#3](https://github.com/ijsKoud/adventofcode/pull/3) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
+9. 💪 Opened PR [#3](https://github.com/ijsKoud/adventofcode/pull/3) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
+10. 🎉 Merged PR [#2](https://github.com/ijsKoud/adventofcode/pull/2) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
