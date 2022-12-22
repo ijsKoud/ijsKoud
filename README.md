@@ -28,15 +28,15 @@ interface Experience {
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 🎉 Merged PR [#86](https://github.com/ijsKoud/website/pull/86) in [ijsKoud/website](https://github.com/ijsKoud/website)
-3. 🎉 Merged PR [#83](https://github.com/ijsKoud/website/pull/83) in [ijsKoud/website](https://github.com/ijsKoud/website)
-4. 🎉 Merged PR [#212](https://github.com/ijsKoud/PaperPlane/pull/212) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-5. 🎉 Merged PR [#213](https://github.com/ijsKoud/PaperPlane/pull/213) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-6. 🎉 Merged PR [#84](https://github.com/ijsKoud/website/pull/84) in [ijsKoud/website](https://github.com/ijsKoud/website)
-7. 🎉 Merged PR [#85](https://github.com/ijsKoud/website/pull/85) in [ijsKoud/website](https://github.com/ijsKoud/website)
-8. 🎉 Merged PR [#7](https://github.com/cryo-sphere/backItUp/pull/7) in [cryo-sphere/backItUp](https://github.com/cryo-sphere/backItUp)
-9. 🎉 Merged PR [#8](https://github.com/cryo-sphere/backItUp/pull/8) in [cryo-sphere/backItUp](https://github.com/cryo-sphere/backItUp)
-10. 🎉 Merged PR [#29](https://github.com/ijsKoud/pentagon/pull/29) in [ijsKoud/pentagon](https://github.com/ijsKoud/pentagon)
+2. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+3. 🎉 Merged PR [#86](https://github.com/ijsKoud/website/pull/86) in [ijsKoud/website](https://github.com/ijsKoud/website)
+4. 🎉 Merged PR [#83](https://github.com/ijsKoud/website/pull/83) in [ijsKoud/website](https://github.com/ijsKoud/website)
+5. 🎉 Merged PR [#212](https://github.com/ijsKoud/PaperPlane/pull/212) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+6. 🎉 Merged PR [#213](https://github.com/ijsKoud/PaperPlane/pull/213) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+7. 🎉 Merged PR [#84](https://github.com/ijsKoud/website/pull/84) in [ijsKoud/website](https://github.com/ijsKoud/website)
+8. 🎉 Merged PR [#85](https://github.com/ijsKoud/website/pull/85) in [ijsKoud/website](https://github.com/ijsKoud/website)
+9. 🎉 Merged PR [#7](https://github.com/cryo-sphere/backItUp/pull/7) in [cryo-sphere/backItUp](https://github.com/cryo-sphere/backItUp)
+10. 🎉 Merged PR [#8](https://github.com/cryo-sphere/backItUp/pull/8) in [cryo-sphere/backItUp](https://github.com/cryo-sphere/backItUp)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
