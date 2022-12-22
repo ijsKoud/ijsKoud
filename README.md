@@ -31,12 +31,12 @@ interface Experience {
 2. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 3. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 4. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-5. 🎉 Merged PR [#86](https://github.com/ijsKoud/website/pull/86) in [ijsKoud/website](https://github.com/ijsKoud/website)
-6. 🎉 Merged PR [#83](https://github.com/ijsKoud/website/pull/83) in [ijsKoud/website](https://github.com/ijsKoud/website)
-7. 🎉 Merged PR [#212](https://github.com/ijsKoud/PaperPlane/pull/212) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-8. 🎉 Merged PR [#213](https://github.com/ijsKoud/PaperPlane/pull/213) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-9. 🎉 Merged PR [#84](https://github.com/ijsKoud/website/pull/84) in [ijsKoud/website](https://github.com/ijsKoud/website)
-10. 🎉 Merged PR [#85](https://github.com/ijsKoud/website/pull/85) in [ijsKoud/website](https://github.com/ijsKoud/website)
+5. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+6. 🎉 Merged PR [#86](https://github.com/ijsKoud/website/pull/86) in [ijsKoud/website](https://github.com/ijsKoud/website)
+7. 🎉 Merged PR [#83](https://github.com/ijsKoud/website/pull/83) in [ijsKoud/website](https://github.com/ijsKoud/website)
+8. 🎉 Merged PR [#212](https://github.com/ijsKoud/PaperPlane/pull/212) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+9. 🎉 Merged PR [#213](https://github.com/ijsKoud/PaperPlane/pull/213) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+10. 🎉 Merged PR [#84](https://github.com/ijsKoud/website/pull/84) in [ijsKoud/website](https://github.com/ijsKoud/website)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
