@@ -27,16 +27,16 @@ interface Experience {
 <img align="right" src="http://gh-stats.ijskoud.dev/api? username=ijsKoud&cache_seconds=1800&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#217](https://github.com/ijsKoud/PaperPlane/pull/217) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-3. 🎉 Merged PR [#216](https://github.com/ijsKoud/PaperPlane/pull/216) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-4. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+1. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+2. 🎉 Merged PR [#217](https://github.com/ijsKoud/PaperPlane/pull/217) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+3. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+4. 🎉 Merged PR [#216](https://github.com/ijsKoud/PaperPlane/pull/216) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 5. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 6. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 7. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 8. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-9. 🎉 Merged PR [#86](https://github.com/ijsKoud/website/pull/86) in [ijsKoud/website](https://github.com/ijsKoud/website)
-10. 🎉 Merged PR [#83](https://github.com/ijsKoud/website/pull/83) in [ijsKoud/website](https://github.com/ijsKoud/website)
+9. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+10. 🎉 Merged PR [#86](https://github.com/ijsKoud/website/pull/86) in [ijsKoud/website](https://github.com/ijsKoud/website)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
