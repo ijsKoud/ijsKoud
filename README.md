@@ -33,9 +33,9 @@ interface Experience {
 4. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 5. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 6. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-7. 🎉 Merged PR [#217](https://github.com/ijsKoud/PaperPlane/pull/217) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+7. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 8. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-9. 🎉 Merged PR [#216](https://github.com/ijsKoud/PaperPlane/pull/216) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+9. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 10. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 <!--END_SECTION:activity-->
 
