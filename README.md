@@ -27,8 +27,8 @@ interface Experience {
 <img align="right" src="http://gh-stats.ijskoud.dev/api? username=ijsKoud&cache_seconds=1800&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+1. 💪 Opened PR [#218](https://github.com/ijsKoud/PaperPlane/pull/218) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+2. ❗️ Closed issue [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 3. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 4. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
 5. 🗣 Commented on [#215](https://github.com/ijsKoud/PaperPlane/issues/215) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
