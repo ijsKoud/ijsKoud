@@ -27,16 +27,16 @@ interface Experience {
 <img align="right" src="http://gh-stats.ijskoud.dev/api? username=ijsKoud&cache_seconds=1800&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#236](https://github.com/ijsKoud/PaperPlane/pull/236) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 🎉 Merged PR [#235](https://github.com/ijsKoud/PaperPlane/pull/235) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-3. 💪 Opened PR [#235](https://github.com/ijsKoud/PaperPlane/pull/235) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-4. 💪 Opened PR [#234](https://github.com/ijsKoud/PaperPlane/pull/234) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-5. 🎉 Merged PR [#230](https://github.com/ijsKoud/PaperPlane/pull/230) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-6. 🎉 Merged PR [#93](https://github.com/ijsKoud/website/pull/93) in [ijsKoud/website](https://github.com/ijsKoud/website)
-7. 🎉 Merged PR [#11](https://github.com/ijsKoud/monorepo/pull/11) in [ijsKoud/monorepo](https://github.com/ijsKoud/monorepo)
-8. 🎉 Merged PR [#12](https://github.com/cryo-sphere/backItUp/pull/12) in [cryo-sphere/backItUp](https://github.com/cryo-sphere/backItUp)
-9. 🎉 Merged PR [#26](https://github.com/ijsKoud/PaperPlane-docs/pull/26) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
-10. 🎉 Merged PR [#13](https://github.com/cryo-sphere/backItUp/pull/13) in [cryo-sphere/backItUp](https://github.com/cryo-sphere/backItUp)
+1. 💪 Opened PR [#237](https://github.com/ijsKoud/PaperPlane/pull/237) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+2. 💪 Opened PR [#236](https://github.com/ijsKoud/PaperPlane/pull/236) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+3. 🎉 Merged PR [#235](https://github.com/ijsKoud/PaperPlane/pull/235) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+4. 💪 Opened PR [#235](https://github.com/ijsKoud/PaperPlane/pull/235) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+5. 💪 Opened PR [#234](https://github.com/ijsKoud/PaperPlane/pull/234) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+6. 🎉 Merged PR [#230](https://github.com/ijsKoud/PaperPlane/pull/230) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+7. 🎉 Merged PR [#93](https://github.com/ijsKoud/website/pull/93) in [ijsKoud/website](https://github.com/ijsKoud/website)
+8. 🎉 Merged PR [#11](https://github.com/ijsKoud/monorepo/pull/11) in [ijsKoud/monorepo](https://github.com/ijsKoud/monorepo)
+9. 🎉 Merged PR [#12](https://github.com/cryo-sphere/backItUp/pull/12) in [cryo-sphere/backItUp](https://github.com/cryo-sphere/backItUp)
+10. 🎉 Merged PR [#26](https://github.com/ijsKoud/PaperPlane-docs/pull/26) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
