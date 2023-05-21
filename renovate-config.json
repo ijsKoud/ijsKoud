@@ -2,11 +2,13 @@
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"extends": ["config:base", ":semanticCommits", ":semanticCommitTypeAll(chore)"],
 	"schedule": ["before 12pm on Sunday"],
+	"dependencyDashboardLabels": ["Dependencies 🚀"],
 	"packageRules": [
 		{
 			"groupName": "github actions",
 			"groupSlug": "github-actions",
-			"matchManagers": ["github-actions"]
+			"matchManagers": ["github-actions"],
+			"labels": ["Merge 🚢"]
 		}
 	],
 	"npm": {
@@ -17,7 +19,7 @@
 				"matchDepTypes": ["dependencies"],
 				"groupName": "all non-major dependencies",
 				"groupSlug": "all-non-major",
-				"semanticCommitType": "fix"
+				"semanticCommitType": "chore"
 			},
 			{
 				"matchUpdateTypes": ["minor", "patch"],
