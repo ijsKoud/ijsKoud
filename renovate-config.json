@@ -1,17 +1,38 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
-	"extends": ["config:base", "helpers:pinGitHubActionDigests", "group:allNonMajor", ":semanticCommits", ":semanticCommitTypeAll(chore)"],
+	"extends": ["config:base", ":semanticCommits", ":semanticCommitTypeAll(chore)"],
 	"schedule": ["before 12pm on Sunday"],
+	"packageRules": [
+		{
+			"groupName": "github actions",
+			"groupSlug": "github-actions",
+			"matchManagers": ["github-actions"]
+		}
+	],
 	"npm": {
 		"rangeStrategy": "bump",
 		"packageRules": [
 			{
-				"matchPackagePatterns": ["ansi-regex"],
-				"allowedVersions": "^5"
+				"matchUpdateTypes": ["minor", "patch"],
+				"matchDepTypes": ["dependencies"],
+				"groupName": "all non-major dependencies",
+				"groupSlug": "all-non-major",
+				"semanticCommitType": "fix"
 			},
 			{
-				"matchPackagePatterns": ["@types/node-fetch"],
-				"allowedVersions": "^2"
+				"matchUpdateTypes": ["minor", "patch"],
+				"matchDepTypes": ["devDependencies"],
+				"groupName": "all non-major dev-dependencies",
+				"groupSlug": "all-non-major-dev",
+				"semanticCommitType": "chore"
+			},
+			{
+				"matchUpdateTypes": ["minor", "patch"],
+				"matchCurrentVersion": "!/^0/"
+			},
+			{
+				"matchDepTypes": ["engines"],
+				"enabled": false
 			}
 		]
 	}
