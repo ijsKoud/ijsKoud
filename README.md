@@ -27,16 +27,16 @@ interface Experience {
 <img align="right" src="http://gh-stats.ijskoud.dev/api? username=ijsKoud&cache_seconds=1800&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#353](https://github.com/ijsKoud/PaperPlane/pull/353) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 🎉 Merged PR [#15](https://github.com/snowcrystals/highway/pull/15) in [snowcrystals/highway](https://github.com/snowcrystals/highway)
-3. 🎉 Merged PR [#348](https://github.com/ijsKoud/PaperPlane/pull/348) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-4. 💪 Opened PR [#348](https://github.com/ijsKoud/PaperPlane/pull/348) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-5. 🎉 Merged PR [#27](https://github.com/ijsKoud/gitcord/pull/27) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
-6. 💪 Opened PR [#27](https://github.com/ijsKoud/gitcord/pull/27) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
-7. 🎉 Merged PR [#11](https://github.com/snowcrystals/highway/pull/11) in [snowcrystals/highway](https://github.com/snowcrystals/highway)
-8. 💪 Opened PR [#10](https://github.com/snowcrystals/highway/pull/10) in [snowcrystals/highway](https://github.com/snowcrystals/highway)
-9. 💪 Opened PR [#5](https://github.com/MorganDilling/ts-bot-template/pull/5) in [MorganDilling/ts-bot-template](https://github.com/MorganDilling/ts-bot-template)
-10. 🎉 Merged PR [#39](https://github.com/ijsKoud/PaperPlane-docs/pull/39) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
+1. 🎉 Merged PR [#35](https://github.com/ijsKoud/gitcord/pull/35) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
+2. 🎉 Merged PR [#71](https://github.com/snowcrystals/iglo/pull/71) in [snowcrystals/iglo](https://github.com/snowcrystals/iglo)
+3. 🎉 Merged PR [#77](https://github.com/snowcrystals/icicle/pull/77) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+4. 🎉 Merged PR [#72](https://github.com/snowcrystals/template/pull/72) in [snowcrystals/template](https://github.com/snowcrystals/template)
+5. ❌ Closed PR [#353](https://github.com/ijsKoud/PaperPlane/pull/353) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+6. 🎉 Merged PR [#15](https://github.com/snowcrystals/highway/pull/15) in [snowcrystals/highway](https://github.com/snowcrystals/highway)
+7. 🎉 Merged PR [#348](https://github.com/ijsKoud/PaperPlane/pull/348) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+8. 💪 Opened PR [#348](https://github.com/ijsKoud/PaperPlane/pull/348) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+9. 🎉 Merged PR [#27](https://github.com/ijsKoud/gitcord/pull/27) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
+10. 💪 Opened PR [#27](https://github.com/ijsKoud/gitcord/pull/27) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
