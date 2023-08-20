@@ -27,16 +27,16 @@ interface Experience {
 <img align="right" src="http://gh-stats.ijskoud.dev/api? username=ijsKoud&cache_seconds=1800&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/ijsKoud/gitcord/pull/62) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
-2. 💪 Opened PR [#98](https://github.com/snowcrystals/icicle/pull/98) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-3. 💪 Opened PR [#103](https://github.com/ijsKoud/adventofcode/pull/103) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
-4. ❌ Closed PR [#12](https://github.com/ijsKoud/memory/pull/12) in [ijsKoud/memory](https://github.com/ijsKoud/memory)
-5. ❌ Closed PR [#225](https://github.com/ijsKoud/website/pull/225) in [ijsKoud/website](https://github.com/ijsKoud/website)
-6. 🚀 Published release [v1.0.0](https://github.com/snowcrystals/prettier-config/releases/tag/v1.0.0) in [snowcrystals/prettier-config](https://github.com/snowcrystals/prettier-config)
-7. 🎉 Merged PR [#21](https://github.com/ijsKoud/memory/pull/21) in [ijsKoud/memory](https://github.com/ijsKoud/memory)
-8. 🎉 Merged PR [#89](https://github.com/snowcrystals/template/pull/89) in [snowcrystals/template](https://github.com/snowcrystals/template)
-9. 🔒 Closed issue [#4](https://github.com/ijsKoud/memory/issues/4) in [ijsKoud/memory](https://github.com/ijsKoud/memory)
-10. 💪 Opened PR [#21](https://github.com/ijsKoud/memory/pull/21) in [ijsKoud/memory](https://github.com/ijsKoud/memory)
+1. 🎉 Merged PR [#65](https://github.com/ijsKoud/gitcord/pull/65) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
+2. 💪 Opened PR [#62](https://github.com/ijsKoud/gitcord/pull/62) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
+3. 💪 Opened PR [#98](https://github.com/snowcrystals/icicle/pull/98) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+4. 💪 Opened PR [#103](https://github.com/ijsKoud/adventofcode/pull/103) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
+5. ❌ Closed PR [#12](https://github.com/ijsKoud/memory/pull/12) in [ijsKoud/memory](https://github.com/ijsKoud/memory)
+6. ❌ Closed PR [#225](https://github.com/ijsKoud/website/pull/225) in [ijsKoud/website](https://github.com/ijsKoud/website)
+7. 🚀 Published release [v1.0.0](https://github.com/snowcrystals/prettier-config/releases/tag/v1.0.0) in [snowcrystals/prettier-config](https://github.com/snowcrystals/prettier-config)
+8. 🎉 Merged PR [#21](https://github.com/ijsKoud/memory/pull/21) in [ijsKoud/memory](https://github.com/ijsKoud/memory)
+9. 🎉 Merged PR [#89](https://github.com/snowcrystals/template/pull/89) in [snowcrystals/template](https://github.com/snowcrystals/template)
+10. 🔒 Closed issue [#4](https://github.com/ijsKoud/memory/issues/4) in [ijsKoud/memory](https://github.com/ijsKoud/memory)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
