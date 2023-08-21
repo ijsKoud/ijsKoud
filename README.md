@@ -27,16 +27,16 @@ interface Experience {
 <img align="right" src="http://gh-stats.ijskoud.dev/api? username=ijsKoud&cache_seconds=1800&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#374](https://github.com/ijsKoud/PaperPlane/pull/374) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-2. 🎉 Merged PR [#389](https://github.com/ijsKoud/PaperPlane/pull/389) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-3. 💪 Opened PR [#390](https://github.com/ijsKoud/PaperPlane/pull/390) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-4. 🎉 Merged PR [#78](https://github.com/ijsKoud/monorepo/pull/78) in [ijsKoud/monorepo](https://github.com/ijsKoud/monorepo)
-5. 🎉 Merged PR [#91](https://github.com/ijsKoud/monorepo/pull/91) in [ijsKoud/monorepo](https://github.com/ijsKoud/monorepo)
-6. 💪 Opened PR [#92](https://github.com/ijsKoud/monorepo/pull/92) in [ijsKoud/monorepo](https://github.com/ijsKoud/monorepo)
-7. 💪 Opened PR [#104](https://github.com/ijsKoud/api/pull/104) in [ijsKoud/api](https://github.com/ijsKoud/api)
-8. 🎉 Merged PR [#25](https://github.com/ijsKoud/memory/pull/25) in [ijsKoud/memory](https://github.com/ijsKoud/memory)
-9. 🎉 Merged PR [#107](https://github.com/ijsKoud/adventofcode/pull/107) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
-10. 🎉 Merged PR [#97](https://github.com/snowcrystals/iglo/pull/97) in [snowcrystals/iglo](https://github.com/snowcrystals/iglo)
+1. 🎉 Merged PR [#173](https://github.com/ijsKoud/project-template/pull/173) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
+2. 💪 Opened PR [#43](https://github.com/snowcrystals/highway/pull/43) in [snowcrystals/highway](https://github.com/snowcrystals/highway)
+3. 🎉 Merged PR [#42](https://github.com/snowcrystals/highway/pull/42) in [snowcrystals/highway](https://github.com/snowcrystals/highway)
+4. 💪 Opened PR [#54](https://github.com/snowcrystals/docs/pull/54) in [snowcrystals/docs](https://github.com/snowcrystals/docs)
+5. 🎉 Merged PR [#53](https://github.com/snowcrystals/docs/pull/53) in [snowcrystals/docs](https://github.com/snowcrystals/docs)
+6. 🎉 Merged PR [#42](https://github.com/ijsKoud/PaperPlane-docs/pull/42) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
+7. ❌ Closed PR [#374](https://github.com/ijsKoud/PaperPlane/pull/374) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+8. 🎉 Merged PR [#389](https://github.com/ijsKoud/PaperPlane/pull/389) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+9. 💪 Opened PR [#390](https://github.com/ijsKoud/PaperPlane/pull/390) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+10. 🎉 Merged PR [#78](https://github.com/ijsKoud/monorepo/pull/78) in [ijsKoud/monorepo](https://github.com/ijsKoud/monorepo)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
