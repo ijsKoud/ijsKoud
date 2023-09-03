@@ -27,16 +27,16 @@ interface Experience {
 <img align="right" src="http://gh-stats.ijskoud.dev/api? username=ijsKoud&cache_seconds=1800&hide_border=true&hide_rank=true&show_icons=true&theme=dark&title_color=ffffff&hide_border=true&locale=en">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#189](https://github.com/ijsKoud/ijsblokje/pull/189) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-2. 🎉 Merged PR [#247](https://github.com/ijsKoud/website/pull/247) in [ijsKoud/website](https://github.com/ijsKoud/website)
-3. 🎉 Merged PR [#155](https://github.com/TrackTech-Media-Group/SCR-Creator-Hub-Frontend/pull/155) in [TrackTech-Media-Group/SCR-Creator-Hub-Frontend](https://github.com/TrackTech-Media-Group/SCR-Creator-Hub-Frontend)
-4. 🎉 Merged PR [#43](https://github.com/ijsKoud/PaperPlane-docs/pull/43) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
-5. 🎉 Merged PR [#57](https://github.com/snowcrystals/docs/pull/57) in [snowcrystals/docs](https://github.com/snowcrystals/docs)
-6. 🎉 Merged PR [#175](https://github.com/ijsKoud/project-template/pull/175) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
-7. 🎉 Merged PR [#396](https://github.com/ijsKoud/PaperPlane/pull/396) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
-8. 💪 Opened PR [#109](https://github.com/ijsKoud/adventofcode/pull/109) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
-9. 🎉 Merged PR [#237](https://github.com/ijsKoud/website/pull/237) in [ijsKoud/website](https://github.com/ijsKoud/website)
-10. 🎉 Merged PR [#101](https://github.com/snowcrystals/icicle/pull/101) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+1. 🎉 Merged PR [#179](https://github.com/ijsKoud/project-template/pull/179) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
+2. 🎉 Merged PR [#176](https://github.com/ijsKoud/project-template/pull/176) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
+3. 🎉 Merged PR [#178](https://github.com/ijsKoud/project-template/pull/178) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
+4. ❌ Closed PR [#67](https://github.com/snowcrystals/website/pull/67) in [snowcrystals/website](https://github.com/snowcrystals/website)
+5. 🎉 Merged PR [#70](https://github.com/snowcrystals/website/pull/70) in [snowcrystals/website](https://github.com/snowcrystals/website)
+6. 🎉 Merged PR [#191](https://github.com/ijsKoud/ijsblokje/pull/191) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+7. 🎉 Merged PR [#189](https://github.com/ijsKoud/ijsblokje/pull/189) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+8. 🎉 Merged PR [#247](https://github.com/ijsKoud/website/pull/247) in [ijsKoud/website](https://github.com/ijsKoud/website)
+9. 🎉 Merged PR [#155](https://github.com/TrackTech-Media-Group/SCR-Creator-Hub-Frontend/pull/155) in [TrackTech-Media-Group/SCR-Creator-Hub-Frontend](https://github.com/TrackTech-Media-Group/SCR-Creator-Hub-Frontend)
+10. 🎉 Merged PR [#43](https://github.com/ijsKoud/PaperPlane-docs/pull/43) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
