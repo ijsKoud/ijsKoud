@@ -38,16 +38,16 @@ export class Human {
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/snowcrystals/prettier-config/pull/18) in [snowcrystals/prettier-config](https://github.com/snowcrystals/prettier-config)
-2. 🎉 Merged PR [#112](https://github.com/snowcrystals/template/pull/112) in [snowcrystals/template](https://github.com/snowcrystals/template)
-3. 🎉 Merged PR [#69](https://github.com/snowcrystals/highway/pull/69) in [snowcrystals/highway](https://github.com/snowcrystals/highway)
-4. 🎉 Merged PR [#118](https://github.com/snowcrystals/iglo/pull/118) in [snowcrystals/iglo](https://github.com/snowcrystals/iglo)
-5. 🎉 Merged PR [#121](https://github.com/snowcrystals/icicle/pull/121) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-6. 🎉 Merged PR [#100](https://github.com/snowcrystals/website/pull/100) in [snowcrystals/website](https://github.com/snowcrystals/website)
-7. 🎉 Merged PR [#98](https://github.com/snowcrystals/website/pull/98) in [snowcrystals/website](https://github.com/snowcrystals/website)
-8. 🎉 Merged PR [#93](https://github.com/ijsKoud/gitcord/pull/93) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
-9. 🎉 Merged PR [#224](https://github.com/ijsKoud/ijsblokje/pull/224) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-10. 🎉 Merged PR [#58](https://github.com/ijsKoud/PaperPlane-docs/pull/58) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
+1. 🎉 Merged PR [#6](https://github.com/ijsKoud/parcel-tracker/pull/6) in [ijsKoud/parcel-tracker](https://github.com/ijsKoud/parcel-tracker)
+2. 🎉 Merged PR [#23](https://github.com/snowcrystals/prettier-config/pull/23) in [snowcrystals/prettier-config](https://github.com/snowcrystals/prettier-config)
+3. 🎉 Merged PR [#76](https://github.com/snowcrystals/highway/pull/76) in [snowcrystals/highway](https://github.com/snowcrystals/highway)
+4. 🎉 Merged PR [#75](https://github.com/snowcrystals/highway/pull/75) in [snowcrystals/highway](https://github.com/snowcrystals/highway)
+5. 🎉 Merged PR [#124](https://github.com/snowcrystals/iglo/pull/124) in [snowcrystals/iglo](https://github.com/snowcrystals/iglo)
+6. 🎉 Merged PR [#233](https://github.com/ijsKoud/ijsblokje/pull/233) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+7. 🎉 Merged PR [#476](https://github.com/ijsKoud/PaperPlane/pull/476) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+8. 🎉 Merged PR [#18](https://github.com/snowcrystals/prettier-config/pull/18) in [snowcrystals/prettier-config](https://github.com/snowcrystals/prettier-config)
+9. 🎉 Merged PR [#112](https://github.com/snowcrystals/template/pull/112) in [snowcrystals/template](https://github.com/snowcrystals/template)
+10. 🎉 Merged PR [#69](https://github.com/snowcrystals/highway/pull/69) in [snowcrystals/highway](https://github.com/snowcrystals/highway)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
