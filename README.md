@@ -38,16 +38,16 @@ export class Human {
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/ijsKoud/parcel-tracker/pull/9) in [ijsKoud/parcel-tracker](https://github.com/ijsKoud/parcel-tracker)
-2. 🎉 Merged PR [#10](https://github.com/ijsKoud/parcel-tracker/pull/10) in [ijsKoud/parcel-tracker](https://github.com/ijsKoud/parcel-tracker)
-3. 🎉 Merged PR [#4](https://github.com/ijsKoud/uitje/pull/4) in [ijsKoud/uitje](https://github.com/ijsKoud/uitje)
-4. 🎉 Merged PR [#239](https://github.com/ijsKoud/ijsblokje/pull/239) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-5. 🎉 Merged PR [#81](https://github.com/snowcrystals/highway/pull/81) in [snowcrystals/highway](https://github.com/snowcrystals/highway)
-6. 🎉 Merged PR [#131](https://github.com/snowcrystals/icicle/pull/131) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-7. 🎉 Merged PR [#3](https://github.com/ijsKoud/uitje/pull/3) in [ijsKoud/uitje](https://github.com/ijsKoud/uitje)
-8. 🎉 Merged PR [#8](https://github.com/ijsKoud/parcel-tracker/pull/8) in [ijsKoud/parcel-tracker](https://github.com/ijsKoud/parcel-tracker)
-9. 🎉 Merged PR [#127](https://github.com/snowcrystals/icicle/pull/127) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-10. 🎉 Merged PR [#7](https://github.com/ijsKoud/parcel-tracker/pull/7) in [ijsKoud/parcel-tracker](https://github.com/ijsKoud/parcel-tracker)
+1. 🎉 Merged PR [#110](https://github.com/TrackTech-Media-Group/SCR-Creator-Hub-Backend/pull/110) in [TrackTech-Media-Group/SCR-Creator-Hub-Backend](https://github.com/TrackTech-Media-Group/SCR-Creator-Hub-Backend)
+2. 🎉 Merged PR [#109](https://github.com/TrackTech-Media-Group/SCR-Creator-Hub-Backend/pull/109) in [TrackTech-Media-Group/SCR-Creator-Hub-Backend](https://github.com/TrackTech-Media-Group/SCR-Creator-Hub-Backend)
+3. 🎉 Merged PR [#111](https://github.com/TrackTech-Media-Group/SCR-Creator-Hub-Backend/pull/111) in [TrackTech-Media-Group/SCR-Creator-Hub-Backend](https://github.com/TrackTech-Media-Group/SCR-Creator-Hub-Backend)
+4. 🎉 Merged PR [#9](https://github.com/ijsKoud/parcel-tracker/pull/9) in [ijsKoud/parcel-tracker](https://github.com/ijsKoud/parcel-tracker)
+5. 🎉 Merged PR [#10](https://github.com/ijsKoud/parcel-tracker/pull/10) in [ijsKoud/parcel-tracker](https://github.com/ijsKoud/parcel-tracker)
+6. 🎉 Merged PR [#4](https://github.com/ijsKoud/uitje/pull/4) in [ijsKoud/uitje](https://github.com/ijsKoud/uitje)
+7. 🎉 Merged PR [#239](https://github.com/ijsKoud/ijsblokje/pull/239) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+8. 🎉 Merged PR [#81](https://github.com/snowcrystals/highway/pull/81) in [snowcrystals/highway](https://github.com/snowcrystals/highway)
+9. 🎉 Merged PR [#131](https://github.com/snowcrystals/icicle/pull/131) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+10. 🎉 Merged PR [#3](https://github.com/ijsKoud/uitje/pull/3) in [ijsKoud/uitje](https://github.com/ijsKoud/uitje)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
