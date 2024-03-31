@@ -38,16 +38,16 @@ export class Human {
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/snowcrystals/.github/pull/1) in [snowcrystals/.github](https://github.com/snowcrystals/.github)
-2. 🚀 Published release [v1.0.0](https://github.com/snowcrystals/eslint-config/releases/tag/v1.0.0) in [snowcrystals/eslint-config](https://github.com/snowcrystals/eslint-config)
-3. 🎉 Merged PR [#146](https://github.com/snowcrystals/template/pull/146) in [snowcrystals/template](https://github.com/snowcrystals/template)
-4. 💪 Opened PR [#146](https://github.com/snowcrystals/template/pull/146) in [snowcrystals/template](https://github.com/snowcrystals/template)
-5. 🎉 Merged PR [#132](https://github.com/snowcrystals/template/pull/132) in [snowcrystals/template](https://github.com/snowcrystals/template)
-6. 💪 Opened PR [#57](https://github.com/ijsKoud/whoami/pull/57) in [ijsKoud/whoami](https://github.com/ijsKoud/whoami)
-7. 💪 Opened PR [#54](https://github.com/ijsKoud/whoami/pull/54) in [ijsKoud/whoami](https://github.com/ijsKoud/whoami)
-8. 🎉 Merged PR [#142](https://github.com/snowcrystals/template/pull/142) in [snowcrystals/template](https://github.com/snowcrystals/template)
-9. 🎉 Merged PR [#149](https://github.com/snowcrystals/iglo/pull/149) in [snowcrystals/iglo](https://github.com/snowcrystals/iglo)
-10. 🎉 Merged PR [#154](https://github.com/snowcrystals/icicle/pull/154) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+1. 🎉 Merged PR [#53](https://github.com/snowcrystals/prettier-config/pull/53) in [snowcrystals/prettier-config](https://github.com/snowcrystals/prettier-config)
+2. ❌ Closed PR [#1](https://github.com/snowcrystals/.github/pull/1) in [snowcrystals/.github](https://github.com/snowcrystals/.github)
+3. 🚀 Published release [v1.0.0](https://github.com/snowcrystals/eslint-config/releases/tag/v1.0.0) in [snowcrystals/eslint-config](https://github.com/snowcrystals/eslint-config)
+4. 🎉 Merged PR [#146](https://github.com/snowcrystals/template/pull/146) in [snowcrystals/template](https://github.com/snowcrystals/template)
+5. 💪 Opened PR [#146](https://github.com/snowcrystals/template/pull/146) in [snowcrystals/template](https://github.com/snowcrystals/template)
+6. 🎉 Merged PR [#132](https://github.com/snowcrystals/template/pull/132) in [snowcrystals/template](https://github.com/snowcrystals/template)
+7. 💪 Opened PR [#57](https://github.com/ijsKoud/whoami/pull/57) in [ijsKoud/whoami](https://github.com/ijsKoud/whoami)
+8. 💪 Opened PR [#54](https://github.com/ijsKoud/whoami/pull/54) in [ijsKoud/whoami](https://github.com/ijsKoud/whoami)
+9. 🎉 Merged PR [#142](https://github.com/snowcrystals/template/pull/142) in [snowcrystals/template](https://github.com/snowcrystals/template)
+10. 🎉 Merged PR [#149](https://github.com/snowcrystals/iglo/pull/149) in [snowcrystals/iglo](https://github.com/snowcrystals/iglo)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
