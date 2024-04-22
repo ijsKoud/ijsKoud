@@ -38,16 +38,16 @@ export class Human {
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/ijsKoud/whoami/pull/70) in [ijsKoud/whoami](https://github.com/ijsKoud/whoami)
-2. 🎉 Merged PR [#140](https://github.com/ijsKoud/gitcord/pull/140) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
-3. 🎉 Merged PR [#91](https://github.com/ijsKoud/PaperPlane-docs/pull/91) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
-4. ❌ Closed PR [#123](https://github.com/ijsKoud/gitcord/pull/123) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
-5. 🎉 Merged PR [#134](https://github.com/ijsKoud/gitcord/pull/134) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
-6. 🎉 Merged PR [#259](https://github.com/ijsKoud/ijsblokje/pull/259) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-7. 💪 Opened PR [#134](https://github.com/ijsKoud/gitcord/pull/134) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
-8. ❌ Closed PR [#104](https://github.com/snowcrystals/website/pull/104) in [snowcrystals/website](https://github.com/snowcrystals/website)
-9. ❌ Closed PR [#126](https://github.com/snowcrystals/website/pull/126) in [snowcrystals/website](https://github.com/snowcrystals/website)
-10. 🎉 Merged PR [#201](https://github.com/ijsKoud/ijsblokje/pull/201) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+1. 🗣 Commented on [#7](https://github.com/snowcrystals/eslint-config/pull/7#issuecomment-2069011488) in [snowcrystals/eslint-config](https://github.com/snowcrystals/eslint-config)
+2. 🎉 Merged PR [#70](https://github.com/ijsKoud/whoami/pull/70) in [ijsKoud/whoami](https://github.com/ijsKoud/whoami)
+3. 🎉 Merged PR [#140](https://github.com/ijsKoud/gitcord/pull/140) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
+4. 🎉 Merged PR [#91](https://github.com/ijsKoud/PaperPlane-docs/pull/91) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
+5. ❌ Closed PR [#123](https://github.com/ijsKoud/gitcord/pull/123) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
+6. 🎉 Merged PR [#134](https://github.com/ijsKoud/gitcord/pull/134) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
+7. 🎉 Merged PR [#259](https://github.com/ijsKoud/ijsblokje/pull/259) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+8. 💪 Opened PR [#134](https://github.com/ijsKoud/gitcord/pull/134) in [ijsKoud/gitcord](https://github.com/ijsKoud/gitcord)
+9. ❌ Closed PR [#104](https://github.com/snowcrystals/website/pull/104) in [snowcrystals/website](https://github.com/snowcrystals/website)
+10. ❌ Closed PR [#126](https://github.com/snowcrystals/website/pull/126) in [snowcrystals/website](https://github.com/snowcrystals/website)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
