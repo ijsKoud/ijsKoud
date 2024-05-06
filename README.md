@@ -38,16 +38,16 @@ export class Human {
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#160](https://github.com/snowcrystals/iglo/pull/160) in [snowcrystals/iglo](https://github.com/snowcrystals/iglo)
-2. 🎉 Merged PR [#15](https://github.com/snowcrystals/eslint-config/pull/15) in [snowcrystals/eslint-config](https://github.com/snowcrystals/eslint-config)
-3. 🎉 Merged PR [#140](https://github.com/snowcrystals/docs/pull/140) in [snowcrystals/docs](https://github.com/snowcrystals/docs)
-4. 🎉 Merged PR [#156](https://github.com/snowcrystals/template/pull/156) in [snowcrystals/template](https://github.com/snowcrystals/template)
-5. 🎉 Merged PR [#148](https://github.com/snowcrystals/website/pull/148) in [snowcrystals/website](https://github.com/snowcrystals/website)
-6. 🎉 Merged PR [#169](https://github.com/snowcrystals/icicle/pull/169) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
-7. 🎉 Merged PR [#6](https://github.com/ijsKoud/automations/pull/6) in [ijsKoud/automations](https://github.com/ijsKoud/automations)
-8. 🎉 Merged PR [#269](https://github.com/ijsKoud/ijsblokje/pull/269) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
-9. 🎉 Merged PR [#2](https://github.com/ijsKoud/automations/pull/2) in [ijsKoud/automations](https://github.com/ijsKoud/automations)
-10. 🎉 Merged PR [#250](https://github.com/ijsKoud/project-template/pull/250) in [ijsKoud/project-template](https://github.com/ijsKoud/project-template)
+1. 🎉 Merged PR [#9](https://github.com/ijsKoud/automations/pull/9) in [ijsKoud/automations](https://github.com/ijsKoud/automations)
+2. 🎉 Merged PR [#276](https://github.com/ijsKoud/ijsblokje/pull/276) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
+3. 🎉 Merged PR [#160](https://github.com/snowcrystals/iglo/pull/160) in [snowcrystals/iglo](https://github.com/snowcrystals/iglo)
+4. 🎉 Merged PR [#15](https://github.com/snowcrystals/eslint-config/pull/15) in [snowcrystals/eslint-config](https://github.com/snowcrystals/eslint-config)
+5. 🎉 Merged PR [#140](https://github.com/snowcrystals/docs/pull/140) in [snowcrystals/docs](https://github.com/snowcrystals/docs)
+6. 🎉 Merged PR [#156](https://github.com/snowcrystals/template/pull/156) in [snowcrystals/template](https://github.com/snowcrystals/template)
+7. 🎉 Merged PR [#148](https://github.com/snowcrystals/website/pull/148) in [snowcrystals/website](https://github.com/snowcrystals/website)
+8. 🎉 Merged PR [#169](https://github.com/snowcrystals/icicle/pull/169) in [snowcrystals/icicle](https://github.com/snowcrystals/icicle)
+9. 🎉 Merged PR [#6](https://github.com/ijsKoud/automations/pull/6) in [ijsKoud/automations](https://github.com/ijsKoud/automations)
+10. 🎉 Merged PR [#269](https://github.com/ijsKoud/ijsblokje/pull/269) in [ijsKoud/ijsblokje](https://github.com/ijsKoud/ijsblokje)
 <!--END_SECTION:activity-->
 
 <h1 align="center" style="display:none;"></h1>
