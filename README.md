@@ -38,10 +38,10 @@ export class Human {
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/ijsKoud/automations/pull/67) in [ijsKoud/automations](https://github.com/ijsKoud/automations)
-2. 🎉 Merged PR [#105](https://github.com/ijsKoud/PaperPlane-docs/pull/105) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
-3. 🎉 Merged PR [#29](https://github.com/ijsKoud/automations/pull/29) in [ijsKoud/automations](https://github.com/ijsKoud/automations)
-4. 🎉 Merged PR [#538](https://github.com/ijsKoud/PaperPlane/pull/538) in [ijsKoud/PaperPlane](https://github.com/ijsKoud/PaperPlane)
+1. 🎉 Merged PR [#29](https://github.com/snowcrystals/eslint-config/pull/29) in [snowcrystals/eslint-config](https://github.com/snowcrystals/eslint-config)
+2. 🎉 Merged PR [#67](https://github.com/ijsKoud/automations/pull/67) in [ijsKoud/automations](https://github.com/ijsKoud/automations)
+3. 🎉 Merged PR [#105](https://github.com/ijsKoud/PaperPlane-docs/pull/105) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
+4. 🎉 Merged PR [#29](https://github.com/ijsKoud/automations/pull/29) in [ijsKoud/automations](https://github.com/ijsKoud/automations)
 5. 🎉 Merged PR [#183](https://github.com/ijsKoud/adventofcode/pull/183) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
 6. 🎉 Merged PR [#15](https://github.com/ijsKoud/automations/pull/15) in [ijsKoud/automations](https://github.com/ijsKoud/automations)
 7. 🎉 Merged PR [#154](https://github.com/snowcrystals/template/pull/154) in [snowcrystals/template](https://github.com/snowcrystals/template)
