@@ -17,8 +17,8 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/snowcrystals/eslint-config/pull/29) in [snowcrystals/eslint-config](https://github.com/snowcrystals/eslint-config)
-2. 🎉 Merged PR [#67](https://github.com/ijsKoud/automations/pull/67) in [ijsKoud/automations](https://github.com/ijsKoud/automations)
+1. 🎉 Merged PR [#83](https://github.com/ijsKoud/appiecal/pull/83) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
+2. 💪 Opened PR [#83](https://github.com/ijsKoud/appiecal/pull/83) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
 3. 🎉 Merged PR [#105](https://github.com/ijsKoud/PaperPlane-docs/pull/105) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
 4. 🎉 Merged PR [#29](https://github.com/ijsKoud/automations/pull/29) in [ijsKoud/automations](https://github.com/ijsKoud/automations)
 5. 🎉 Merged PR [#183](https://github.com/ijsKoud/adventofcode/pull/183) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
