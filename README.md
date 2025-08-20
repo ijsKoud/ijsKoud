@@ -17,10 +17,10 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/ijsKoud/appiecal/pull/83) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
-2. 💪 Opened PR [#83](https://github.com/ijsKoud/appiecal/pull/83) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
-3. 🎉 Merged PR [#105](https://github.com/ijsKoud/PaperPlane-docs/pull/105) in [ijsKoud/PaperPlane-docs](https://github.com/ijsKoud/PaperPlane-docs)
-4. 🎉 Merged PR [#29](https://github.com/ijsKoud/automations/pull/29) in [ijsKoud/automations](https://github.com/ijsKoud/automations)
+1. 🎉 Merged PR [#86](https://github.com/ijsKoud/appiecal/pull/86) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
+2. 💪 Opened PR [#86](https://github.com/ijsKoud/appiecal/pull/86) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
+3. 🎉 Merged PR [#83](https://github.com/ijsKoud/appiecal/pull/83) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
+4. 💪 Opened PR [#83](https://github.com/ijsKoud/appiecal/pull/83) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
 5. 🎉 Merged PR [#183](https://github.com/ijsKoud/adventofcode/pull/183) in [ijsKoud/adventofcode](https://github.com/ijsKoud/adventofcode)
 6. 🎉 Merged PR [#15](https://github.com/ijsKoud/automations/pull/15) in [ijsKoud/automations](https://github.com/ijsKoud/automations)
 7. 🎉 Merged PR [#154](https://github.com/snowcrystals/template/pull/154) in [snowcrystals/template](https://github.com/snowcrystals/template)
