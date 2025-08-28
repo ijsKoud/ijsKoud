@@ -17,16 +17,16 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/ijsKoud/klrnbk.nl/pull/70) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-2. 🎉 Merged PR [#67](https://github.com/ijsKoud/klrnbk.nl/pull/67) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-3. 🎉 Merged PR [#66](https://github.com/ijsKoud/klrnbk.nl/pull/66) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-4. 🎉 Merged PR [#5](https://github.com/ijsKoud/ijsKoud/pull/5) in [ijsKoud/ijsKoud](https://github.com/ijsKoud/ijsKoud)
-5. 🎉 Merged PR [#68](https://github.com/ijsKoud/klrnbk.nl/pull/68) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-6. 🎉 Merged PR [#87](https://github.com/ijsKoud/appiecal/pull/87) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
-7. 💪 Opened PR [#87](https://github.com/ijsKoud/appiecal/pull/87) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
-8. 🎉 Merged PR [#86](https://github.com/ijsKoud/appiecal/pull/86) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
-9. 💪 Opened PR [#86](https://github.com/ijsKoud/appiecal/pull/86) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
-10. 🎉 Merged PR [#83](https://github.com/ijsKoud/appiecal/pull/83) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
+1. 🎉 Merged PR [#3](https://github.com/ijsKoud/ktchanges/pull/3) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+2. 💪 Opened PR [#3](https://github.com/ijsKoud/ktchanges/pull/3) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+3. 🎉 Merged PR [#2](https://github.com/ijsKoud/ktchanges/pull/2) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+4. 💪 Opened PR [#2](https://github.com/ijsKoud/ktchanges/pull/2) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+5. 🎉 Merged PR [#70](https://github.com/ijsKoud/klrnbk.nl/pull/70) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+6. 🎉 Merged PR [#67](https://github.com/ijsKoud/klrnbk.nl/pull/67) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+7. 🎉 Merged PR [#66](https://github.com/ijsKoud/klrnbk.nl/pull/66) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+8. 🎉 Merged PR [#5](https://github.com/ijsKoud/ijsKoud/pull/5) in [ijsKoud/ijsKoud](https://github.com/ijsKoud/ijsKoud)
+9. 🎉 Merged PR [#68](https://github.com/ijsKoud/klrnbk.nl/pull/68) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+10. 🎉 Merged PR [#87](https://github.com/ijsKoud/appiecal/pull/87) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
 <!--END_SECTION:activity-->
 
 ---
