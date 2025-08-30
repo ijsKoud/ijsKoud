@@ -1,7 +1,7 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"extends": ["config:base", ":semanticCommits", ":semanticCommitTypeAll(chore)"],
-	"schedule": ["before 12pm on Sunday"],
+  	"schedule": ["before 12pm on Monday", "before 12pm on Thursday"],
 	"dependencyDashboardLabels": ["Dependencies 🚀"],
 	"packageRules": [
 		{
