@@ -17,16 +17,16 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ijsKoud/ktchanges/pull/1) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-2. 🎉 Merged PR [#4](https://github.com/ijsKoud/ktchanges/pull/4) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-3. 💪 Opened PR [#4](https://github.com/ijsKoud/ktchanges/pull/4) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-4. 🎉 Merged PR [#3](https://github.com/ijsKoud/ktchanges/pull/3) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-5. 💪 Opened PR [#3](https://github.com/ijsKoud/ktchanges/pull/3) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-6. 🎉 Merged PR [#2](https://github.com/ijsKoud/ktchanges/pull/2) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-7. 💪 Opened PR [#2](https://github.com/ijsKoud/ktchanges/pull/2) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-8. 🎉 Merged PR [#70](https://github.com/ijsKoud/klrnbk.nl/pull/70) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-9. 🎉 Merged PR [#67](https://github.com/ijsKoud/klrnbk.nl/pull/67) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-10. 🎉 Merged PR [#66](https://github.com/ijsKoud/klrnbk.nl/pull/66) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+1. 🎉 Merged PR [#7](https://github.com/ijsKoud/ktchanges/pull/7) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+2. 🎉 Merged PR [#8](https://github.com/ijsKoud/ktchanges/pull/8) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+3. 🎉 Merged PR [#6](https://github.com/ijsKoud/ktchanges/pull/6) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+4. 🎉 Merged PR [#1](https://github.com/ijsKoud/ktchanges/pull/1) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+5. 🎉 Merged PR [#4](https://github.com/ijsKoud/ktchanges/pull/4) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+6. 💪 Opened PR [#4](https://github.com/ijsKoud/ktchanges/pull/4) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+7. 🎉 Merged PR [#3](https://github.com/ijsKoud/ktchanges/pull/3) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+8. 💪 Opened PR [#3](https://github.com/ijsKoud/ktchanges/pull/3) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+9. 🎉 Merged PR [#2](https://github.com/ijsKoud/ktchanges/pull/2) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+10. 💪 Opened PR [#2](https://github.com/ijsKoud/ktchanges/pull/2) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
 <!--END_SECTION:activity-->
 
 ---
