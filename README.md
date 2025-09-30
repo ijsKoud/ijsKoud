@@ -17,16 +17,16 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](undefined) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
-2. ❌ Reopened PR [#12](undefined) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-3. ❌ Closed PR [#12](undefined) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-4. 💪 Opened PR [#12](undefined) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
-5. 💪 Opened PR [#11](undefined) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
-6. 💪 Opened PR [#10](undefined) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
-7. ❌ Reopened PR [#12](undefined) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-8. ❌ Closed PR [#12](undefined) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-9. 💪 Opened PR [#9](undefined) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
-10. 💪 Opened PR [#12](undefined) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+1. 🎉 Merged PR [#14](https://github.com/ijsKoud/ktchanges/pull/14) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+2. 🎉 Merged PR [#76](https://github.com/ijsKoud/klrnbk.nl/pull/76) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+3. 🎉 Merged PR [#15](https://github.com/ijsKoud/ktchanges/pull/15) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+4. 🎉 Merged PR [#75](https://github.com/ijsKoud/klrnbk.nl/pull/75) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+5. 🎉 Merged PR [#16](https://github.com/ijsKoud/ktchanges/pull/16) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
+6. 🎉 Merged PR [#74](https://github.com/ijsKoud/klrnbk.nl/pull/74) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+7. 🎉 Merged PR [#17](https://github.com/ijsKoud/actions/pull/17) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
+8. 🎉 Merged PR [#15](https://github.com/ijsKoud/actions/pull/15) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
+9. 🎉 Merged PR [#16](https://github.com/ijsKoud/actions/pull/16) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
+10. 🎉 Merged PR [#18](https://github.com/ijsKoud/actions/pull/18) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
 <!--END_SECTION:activity-->
 
 ---
