@@ -17,14 +17,14 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/ijsKoud/half-a-minute/issues/4) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-2.  Assigned issue [#4](https://github.com/ijsKoud/half-a-minute/issues/4) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-3. 🔒 Closed issue [#2](https://github.com/ijsKoud/half-a-minute/issues/2) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-4. 💪 Opened PR [#3](undefined) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-5.  Assigned issue [#2](https://github.com/ijsKoud/half-a-minute/issues/2) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-6. ❗ Opened issue [#2](https://github.com/ijsKoud/half-a-minute/issues/2) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-7. 🎉 Merged PR [#17](https://github.com/ijsKoud/actions/pull/17) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
-8. 🎉 Merged PR [#15](https://github.com/ijsKoud/actions/pull/15) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
+1.  Assigned issue [#5](https://github.com/ijsKoud/half-a-minute/issues/5) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+2. ❗ Opened issue [#5](https://github.com/ijsKoud/half-a-minute/issues/5) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+3. ❗ Opened issue [#4](https://github.com/ijsKoud/half-a-minute/issues/4) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+4.  Assigned issue [#4](https://github.com/ijsKoud/half-a-minute/issues/4) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+5. 🔒 Closed issue [#2](https://github.com/ijsKoud/half-a-minute/issues/2) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+6. 💪 Opened PR [#3](undefined) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+7.  Assigned issue [#2](https://github.com/ijsKoud/half-a-minute/issues/2) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+8. ❗ Opened issue [#2](https://github.com/ijsKoud/half-a-minute/issues/2) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
 9. 🎉 Merged PR [#16](https://github.com/ijsKoud/actions/pull/16) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
 10. 🎉 Merged PR [#18](https://github.com/ijsKoud/actions/pull/18) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
 <!--END_SECTION:activity-->
