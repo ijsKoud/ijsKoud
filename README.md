@@ -17,12 +17,12 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/ijsKoud/ktchanges/pull/14) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-2. 🎉 Merged PR [#76](https://github.com/ijsKoud/klrnbk.nl/pull/76) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-3. 🎉 Merged PR [#15](https://github.com/ijsKoud/ktchanges/pull/15) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-4. 🎉 Merged PR [#75](https://github.com/ijsKoud/klrnbk.nl/pull/75) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-5. 🎉 Merged PR [#16](https://github.com/ijsKoud/ktchanges/pull/16) in [ijsKoud/ktchanges](https://github.com/ijsKoud/ktchanges)
-6. 🎉 Merged PR [#74](https://github.com/ijsKoud/klrnbk.nl/pull/74) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+1. ❗ Opened issue [#4](https://github.com/ijsKoud/half-a-minute/issues/4) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+2.  Assigned issue [#4](https://github.com/ijsKoud/half-a-minute/issues/4) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+3. 🔒 Closed issue [#2](https://github.com/ijsKoud/half-a-minute/issues/2) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+4. 💪 Opened PR [#3](undefined) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+5.  Assigned issue [#2](https://github.com/ijsKoud/half-a-minute/issues/2) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+6. ❗ Opened issue [#2](https://github.com/ijsKoud/half-a-minute/issues/2) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
 7. 🎉 Merged PR [#17](https://github.com/ijsKoud/actions/pull/17) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
 8. 🎉 Merged PR [#15](https://github.com/ijsKoud/actions/pull/15) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
 9. 🎉 Merged PR [#16](https://github.com/ijsKoud/actions/pull/16) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
