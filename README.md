@@ -17,16 +17,16 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#35](https://github.com/ijsKoud/half-a-minute/issues/35) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-2. 🎉 Merged PR [#39](https://github.com/ijsKoud/half-a-minute/pull/39) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-3. 💪 Opened PR [#39](https://github.com/ijsKoud/half-a-minute/pull/39) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-4. 🔒 Closed issue [#34](https://github.com/ijsKoud/half-a-minute/issues/34) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-5. 🎉 Merged PR [#38](https://github.com/ijsKoud/half-a-minute/pull/38) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-6. 💪 Opened PR [#38](https://github.com/ijsKoud/half-a-minute/pull/38) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-7. 🎉 Merged PR [#37](https://github.com/ijsKoud/half-a-minute/pull/37) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-8. 🔒 Closed issue [#33](https://github.com/ijsKoud/half-a-minute/issues/33) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-9. 💪 Opened PR [#37](https://github.com/ijsKoud/half-a-minute/pull/37) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-10. ❗ Opened issue [#36](https://github.com/ijsKoud/half-a-minute/issues/36) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+1. 🎉 Merged PR [#40](https://github.com/ijsKoud/half-a-minute/pull/40) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+2. 🔒 Closed issue [#36](https://github.com/ijsKoud/half-a-minute/issues/36) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+3. 💪 Opened PR [#40](https://github.com/ijsKoud/half-a-minute/pull/40) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+4. 🔒 Closed issue [#35](https://github.com/ijsKoud/half-a-minute/issues/35) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+5. 🎉 Merged PR [#39](https://github.com/ijsKoud/half-a-minute/pull/39) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+6. 💪 Opened PR [#39](https://github.com/ijsKoud/half-a-minute/pull/39) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+7. 🔒 Closed issue [#34](https://github.com/ijsKoud/half-a-minute/issues/34) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+8. 🎉 Merged PR [#38](https://github.com/ijsKoud/half-a-minute/pull/38) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+9. 💪 Opened PR [#38](https://github.com/ijsKoud/half-a-minute/pull/38) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+10. 🎉 Merged PR [#37](https://github.com/ijsKoud/half-a-minute/pull/37) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
 <!--END_SECTION:activity-->
 
 ---
