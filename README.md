@@ -17,10 +17,10 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/ijsKoud/half-a-minute/pull/46) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-2. 💪 Opened PR [#46](https://github.com/ijsKoud/half-a-minute/pull/46) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-3. ❗ Opened issue [#45](https://github.com/ijsKoud/half-a-minute/issues/45) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
-4. ℹ️ Assigned issue [#45](https://github.com/ijsKoud/half-a-minute/issues/45) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
+1. 🎉 Merged PR [#125](https://github.com/ijsKoud/klrnbk.nl/pull/125) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+2. 💪 Opened PR [#125](https://github.com/ijsKoud/klrnbk.nl/pull/125) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+3. 🎉 Merged PR [#124](https://github.com/ijsKoud/klrnbk.nl/pull/124) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+4. 💪 Opened PR [#124](https://github.com/ijsKoud/klrnbk.nl/pull/124) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
 5. ❗ Opened issue [#44](https://github.com/ijsKoud/half-a-minute/issues/44) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
 6. ℹ️ Assigned issue [#44](https://github.com/ijsKoud/half-a-minute/issues/44) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
 7. ℹ️ Assigned issue [#43](https://github.com/ijsKoud/half-a-minute/issues/43) in [ijsKoud/half-a-minute](https://github.com/ijsKoud/half-a-minute)
