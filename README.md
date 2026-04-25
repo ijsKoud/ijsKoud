@@ -17,16 +17,16 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#93](https://github.com/ijsKoud/appiecal/pull/93) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
-2. 🎉 Merged PR [#45](https://github.com/ijsKoud/actions/pull/45) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
-3. 💪 Opened PR [#45](https://github.com/ijsKoud/actions/pull/45) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
-4. 🎉 Merged PR [#44](https://github.com/ijsKoud/actions/pull/44) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
-5. 💪 Opened PR [#44](https://github.com/ijsKoud/actions/pull/44) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
-6. 🎉 Merged PR [#43](https://github.com/ijsKoud/actions/pull/43) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
-7. 💪 Opened PR [#43](https://github.com/ijsKoud/actions/pull/43) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
-8. 🎉 Merged PR [#42](https://github.com/ijsKoud/actions/pull/42) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
-9. 💪 Opened PR [#42](https://github.com/ijsKoud/actions/pull/42) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
-10. 🎉 Merged PR [#41](https://github.com/ijsKoud/actions/pull/41) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
+1. 🎉 Merged PR [#95](https://github.com/ijsKoud/appiecal/pull/95) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
+2. 💪 Opened PR [#95](https://github.com/ijsKoud/appiecal/pull/95) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
+3. 🎉 Merged PR [#94](https://github.com/ijsKoud/appiecal/pull/94) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
+4. 💪 Opened PR [#94](https://github.com/ijsKoud/appiecal/pull/94) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
+5. 🎉 Merged PR [#93](https://github.com/ijsKoud/appiecal/pull/93) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
+6. 💪 Opened PR [#93](https://github.com/ijsKoud/appiecal/pull/93) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
+7. 🎉 Merged PR [#45](https://github.com/ijsKoud/actions/pull/45) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
+8. 💪 Opened PR [#45](https://github.com/ijsKoud/actions/pull/45) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
+9. 🎉 Merged PR [#44](https://github.com/ijsKoud/actions/pull/44) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
+10. 💪 Opened PR [#44](https://github.com/ijsKoud/actions/pull/44) in [ijsKoud/actions](https://github.com/ijsKoud/actions)
 <!--END_SECTION:activity-->
 
 ---
