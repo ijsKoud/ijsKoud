@@ -17,16 +17,16 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/ijsKoud/appiecal-web/pull/6) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
-2. 💪 Opened PR [#6](https://github.com/ijsKoud/appiecal-web/pull/6) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
-3. 🎉 Merged PR [#5](https://github.com/ijsKoud/appiecal-web/pull/5) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
-4. 💪 Opened PR [#5](https://github.com/ijsKoud/appiecal-web/pull/5) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
-5. 🎉 Merged PR [#4](https://github.com/ijsKoud/appiecal-web/pull/4) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
-6. 💪 Opened PR [#4](https://github.com/ijsKoud/appiecal-web/pull/4) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
-7. 🎉 Merged PR [#3](https://github.com/ijsKoud/appiecal-web/pull/3) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
-8. 💪 Opened PR [#3](https://github.com/ijsKoud/appiecal-web/pull/3) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
-9. 🎉 Merged PR [#2](https://github.com/ijsKoud/appiecal-web/pull/2) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
-10. 💪 Opened PR [#2](https://github.com/ijsKoud/appiecal-web/pull/2) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
+1. 🎉 Merged PR [#10](https://github.com/ijsKoud/appiecal-web/pull/10) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
+2. 💪 Opened PR [#10](https://github.com/ijsKoud/appiecal-web/pull/10) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
+3. 🎉 Merged PR [#6](https://github.com/ijsKoud/appiecal-web/pull/6) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
+4. 💪 Opened PR [#6](https://github.com/ijsKoud/appiecal-web/pull/6) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
+5. 🎉 Merged PR [#5](https://github.com/ijsKoud/appiecal-web/pull/5) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
+6. 💪 Opened PR [#5](https://github.com/ijsKoud/appiecal-web/pull/5) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
+7. 🎉 Merged PR [#4](https://github.com/ijsKoud/appiecal-web/pull/4) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
+8. 💪 Opened PR [#4](https://github.com/ijsKoud/appiecal-web/pull/4) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
+9. 🎉 Merged PR [#3](https://github.com/ijsKoud/appiecal-web/pull/3) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
+10. 💪 Opened PR [#3](https://github.com/ijsKoud/appiecal-web/pull/3) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
 <!--END_SECTION:activity-->
 
 ---
