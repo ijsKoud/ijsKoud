@@ -17,7 +17,7 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/12) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
+1. 💪 Opened PR [#13](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/13) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
 2. 💪 Opened PR [#12](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/12) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
 3. 🗣 Commented on [#103](https://github.com/ShaneBeeStudios/HungerGames/issues/103#issuecomment-5160653917) in [ShaneBeeStudios/HungerGames](https://github.com/ShaneBeeStudios/HungerGames)
 4. 🗣 Commented on [#103](https://github.com/ShaneBeeStudios/HungerGames/issues/103#issuecomment-5153959703) in [ShaneBeeStudios/HungerGames](https://github.com/ShaneBeeStudios/HungerGames)
