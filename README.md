@@ -17,16 +17,16 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/16) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
-2. 💪 Opened PR [#16](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/16) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
-3. 🎉 Merged PR [#15](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/15) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
-4. 💪 Opened PR [#15](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/15) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
-5. 🎉 Merged PR [#14](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/14) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
-6. 💪 Opened PR [#14](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/14) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
-7. 🎉 Merged PR [#13](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/13) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
-8. 💪 Opened PR [#13](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/13) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
-9. 💪 Opened PR [#112](https://github.com/ijsKoud/appiecal/pull/112) in [ijsKoud/appiecal](https://github.com/ijsKoud/appiecal)
-10. 💪 Opened PR [#32](https://github.com/ijsKoud/appiecal-web/pull/32) in [ijsKoud/appiecal-web](https://github.com/ijsKoud/appiecal-web)
+1. 🎉 Merged PR [#20](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/20) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
+2. 💪 Opened PR [#20](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/20) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
+3. 🎉 Merged PR [#19](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/19) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
+4. 💪 Opened PR [#19](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/19) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
+5. 🎉 Merged PR [#18](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/18) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
+6. 💪 Opened PR [#18](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/18) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
+7. 🎉 Merged PR [#17](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/17) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
+8. 💪 Opened PR [#17](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/17) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
+9. 🎉 Merged PR [#16](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/16) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
+10. 💪 Opened PR [#16](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/16) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
 <!--END_SECTION:activity-->
 
 ---
