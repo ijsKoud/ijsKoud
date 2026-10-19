@@ -17,10 +17,10 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/26) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
-2. 🎉 Merged PR [#25](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/25) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
-3. 💪 Opened PR [#26](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/26) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
-4. 💪 Opened PR [#25](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/25) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
+1. 🎉 Merged PR [#7](https://github.com/ijsKoud/homelab-gitops/pull/7) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
+2. 💪 Opened PR [#7](https://github.com/ijsKoud/homelab-gitops/pull/7) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
+3. 🎉 Merged PR [#26](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/26) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
+4. 🎉 Merged PR [#25](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/25) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
 5. 🎉 Merged PR [#24](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/24) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
 6. 💪 Opened PR [#24](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/24) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
 7. 🎉 Merged PR [#23](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/23) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
