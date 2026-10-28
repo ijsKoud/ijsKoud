@@ -17,13 +17,13 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ijsKoud/kotlin-monorepo-template/pull/3) in [ijsKoud/kotlin-monorepo-template](https://github.com/ijsKoud/kotlin-monorepo-template)
-2. 💪 Opened PR [#3](https://github.com/ijsKoud/kotlin-monorepo-template/pull/3) in [ijsKoud/kotlin-monorepo-template](https://github.com/ijsKoud/kotlin-monorepo-template)
-3. 🎉 Merged PR [#12](https://github.com/ijsKoud/homelab-gitops/pull/12) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
-4. 💪 Opened PR [#12](https://github.com/ijsKoud/homelab-gitops/pull/12) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
-5. 🎉 Merged PR [#7](https://github.com/ijsKoud/homelab-gitops/pull/7) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
-6. 💪 Opened PR [#7](https://github.com/ijsKoud/homelab-gitops/pull/7) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
-7. 🎉 Merged PR [#23](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/23) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
+1. 💪 Opened PR [#34](https://github.com/ijsKoud/homelab-gitops/pull/34) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
+2. 🎉 Merged PR [#3](https://github.com/ijsKoud/kotlin-monorepo-template/pull/3) in [ijsKoud/kotlin-monorepo-template](https://github.com/ijsKoud/kotlin-monorepo-template)
+3. 💪 Opened PR [#3](https://github.com/ijsKoud/kotlin-monorepo-template/pull/3) in [ijsKoud/kotlin-monorepo-template](https://github.com/ijsKoud/kotlin-monorepo-template)
+4. 🎉 Merged PR [#12](https://github.com/ijsKoud/homelab-gitops/pull/12) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
+5. 💪 Opened PR [#12](https://github.com/ijsKoud/homelab-gitops/pull/12) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
+6. 🎉 Merged PR [#7](https://github.com/ijsKoud/homelab-gitops/pull/7) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
+7. 💪 Opened PR [#7](https://github.com/ijsKoud/homelab-gitops/pull/7) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
 8. 💪 Opened PR [#23](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/23) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
 9. 🎉 Merged PR [#22](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/22) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
 10. 💪 Opened PR [#22](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/22) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
