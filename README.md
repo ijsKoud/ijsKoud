@@ -17,12 +17,12 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/ijsKoud/stuffie-vriendenboek-api/pull/5) in [ijsKoud/stuffie-vriendenboek-api](https://github.com/ijsKoud/stuffie-vriendenboek-api)
-2. 🎉 Merged PR [#34](https://github.com/ijsKoud/homelab-gitops/pull/34) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
-3. 💪 Opened PR [#34](https://github.com/ijsKoud/homelab-gitops/pull/34) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
-4. 🎉 Merged PR [#3](https://github.com/ijsKoud/kotlin-monorepo-template/pull/3) in [ijsKoud/kotlin-monorepo-template](https://github.com/ijsKoud/kotlin-monorepo-template)
-5. 💪 Opened PR [#3](https://github.com/ijsKoud/kotlin-monorepo-template/pull/3) in [ijsKoud/kotlin-monorepo-template](https://github.com/ijsKoud/kotlin-monorepo-template)
-6. 🎉 Merged PR [#12](https://github.com/ijsKoud/homelab-gitops/pull/12) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
+1. 🎉 Merged PR [#5](https://github.com/ijsKoud/stuffie-vriendenboek-api/pull/5) in [ijsKoud/stuffie-vriendenboek-api](https://github.com/ijsKoud/stuffie-vriendenboek-api)
+2. 💪 Opened PR [#5](https://github.com/ijsKoud/stuffie-vriendenboek-api/pull/5) in [ijsKoud/stuffie-vriendenboek-api](https://github.com/ijsKoud/stuffie-vriendenboek-api)
+3. 🎉 Merged PR [#34](https://github.com/ijsKoud/homelab-gitops/pull/34) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
+4. 💪 Opened PR [#34](https://github.com/ijsKoud/homelab-gitops/pull/34) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
+5. 🎉 Merged PR [#3](https://github.com/ijsKoud/kotlin-monorepo-template/pull/3) in [ijsKoud/kotlin-monorepo-template](https://github.com/ijsKoud/kotlin-monorepo-template)
+6. 💪 Opened PR [#3](https://github.com/ijsKoud/kotlin-monorepo-template/pull/3) in [ijsKoud/kotlin-monorepo-template](https://github.com/ijsKoud/kotlin-monorepo-template)
 7. 💪 Opened PR [#12](https://github.com/ijsKoud/homelab-gitops/pull/12) in [ijsKoud/homelab-gitops](https://github.com/ijsKoud/homelab-gitops)
 8. 💪 Opened PR [#23](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/23) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
 9. 🎉 Merged PR [#22](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/22) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
