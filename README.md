@@ -17,14 +17,14 @@ Full-stack developer building open-source apps for the internet. <br>Learning so
 # 🔥 Live Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#170](https://github.com/ijsKoud/klrnbk.nl/pull/170) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-2. 💪 Opened PR [#170](https://github.com/ijsKoud/klrnbk.nl/pull/170) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-3. 🎉 Merged PR [#169](https://github.com/ijsKoud/klrnbk.nl/pull/169) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-4. 💪 Opened PR [#169](https://github.com/ijsKoud/klrnbk.nl/pull/169) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-5. 🎉 Merged PR [#168](https://github.com/ijsKoud/klrnbk.nl/pull/168) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-6. 💪 Opened PR [#168](https://github.com/ijsKoud/klrnbk.nl/pull/168) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
-7. 🎉 Merged PR [#5](https://github.com/ijsKoud/stuffie-vriendenboek-api/pull/5) in [ijsKoud/stuffie-vriendenboek-api](https://github.com/ijsKoud/stuffie-vriendenboek-api)
-8. 💪 Opened PR [#5](https://github.com/ijsKoud/stuffie-vriendenboek-api/pull/5) in [ijsKoud/stuffie-vriendenboek-api](https://github.com/ijsKoud/stuffie-vriendenboek-api)
+1. 🎉 Merged PR [#7](https://github.com/ijsKoud/kotlin-monorepo-template/pull/7) in [ijsKoud/kotlin-monorepo-template](https://github.com/ijsKoud/kotlin-monorepo-template)
+2. 💪 Opened PR [#7](https://github.com/ijsKoud/kotlin-monorepo-template/pull/7) in [ijsKoud/kotlin-monorepo-template](https://github.com/ijsKoud/kotlin-monorepo-template)
+3. 🎉 Merged PR [#170](https://github.com/ijsKoud/klrnbk.nl/pull/170) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+4. 💪 Opened PR [#170](https://github.com/ijsKoud/klrnbk.nl/pull/170) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+5. 🎉 Merged PR [#169](https://github.com/ijsKoud/klrnbk.nl/pull/169) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+6. 💪 Opened PR [#169](https://github.com/ijsKoud/klrnbk.nl/pull/169) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+7. 🎉 Merged PR [#168](https://github.com/ijsKoud/klrnbk.nl/pull/168) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
+8. 💪 Opened PR [#168](https://github.com/ijsKoud/klrnbk.nl/pull/168) in [ijsKoud/klrnbk.nl](https://github.com/ijsKoud/klrnbk.nl)
 9. 🎉 Merged PR [#22](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/22) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
 10. 💪 Opened PR [#22](https://github.com/ijsKoud/klrnbk-minecraft-plugins/pull/22) in [ijsKoud/klrnbk-minecraft-plugins](https://github.com/ijsKoud/klrnbk-minecraft-plugins)
 <!--END_SECTION:activity-->
